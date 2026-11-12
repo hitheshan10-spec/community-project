@@ -1,0 +1,662 @@
+[
+  {
+    "id": "q1",
+    "difficulty": "easy",
+    "category": "upi",
+    "question_en": "When do you need to enter your UPI PIN on payment apps like Google Pay or PhonePe?",
+    "question_kn": "Google Pay ಅಥವಾ PhonePe ನಂತಹ ಆ್ಯಪ್‌ಗಳಲ್ಲಿ ನಿಮ್ಮ ಯುಪಿಐ ಪಿನ್ (UPI PIN) ಯಾವಾಗ ನಮೂದಿಸಬೇಕು?",
+    "options_en": [
+      "Only when sending money or checking your bank balance",
+      "Both when receiving and sending money",
+      "Whenever someone sends you cashback",
+      "Whenever you scan a QR code to receive a refund"
+    ],
+    "options_kn": [
+      "ಕೇವಲ ಹಣ ಕಳುಹಿಸುವಾಗ ಅಥವಾ ಬ್ಯಾಂಕ್ ಬ್ಯಾಲೆನ್ಸ್ ಪರಿಶೀಲಿಸುವಾಗ ಮಾತ್ರ",
+      "ಹಣ ಪಡೆಯುವಾಗ ಮತ್ತು ಕಳುಹಿಸುವಾಗ ಎರಡೂ ಸಂದರ್ಭಗಳಲ್ಲಿ",
+      "ಕ್ಯಾಶ್‌ಬ್ಯಾಕ್ ಪಡೆದುಕೊಳ್ಳುವಾಗ",
+      "ರಿಫಂಡ್ ಪಡೆಯಲು ಕ್ಯೂಆರ್ ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡಿದಾಗ"
+    ],
+    "correct_index": 0,
+    "explanation_en": "THE GOLDEN RULE OF UPI: You NEVER enter your UPI PIN to receive money. A PIN is only used to authorize debit of money from your bank account.",
+    "explanation_kn": "ಯುಪಿಐ ಸುವರ್ಣ ನಿಯಮ: ಹಣ ಪಡೆಯಲು ಯುಪಿಐ ಪಿನ್ ಅಗತ್ಯವೇ ಇಲ್ಲ. ಹಣ ಕಳುಹಿಸುವಾಗ ಅಥವಾ ಬ್ಯಾಲೆನ್ಸ್ ನೋಡುವಾಗ ಮಾತ್ರ ಪಿನ್ ಬೇಕು."
+  },
+  {
+    "id": "q2",
+    "difficulty": "easy",
+    "category": "passwords",
+    "question_en": "Which of the following is considered the strongest and safest password practice?",
+    "question_kn": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಅತ್ಯಂತ ಸುರಕ್ಷಿತ ಮತ್ತು ಬಲಿಷ್ಠ ಪಾಸ್‌ವರ್ಡ್ ವಿಧಾನವಾಗಿದೆ?",
+    "options_en": [
+      "Using your birth date and phone number so you don't forget it",
+      "Using 'Password@123' across all your social and banking accounts",
+      "Using a unique passphrase with 14+ characters, combining words, numbers, and symbols",
+      "Writing your password on a sticky note attached to your laptop"
+    ],
+    "options_kn": [
+      "ನೆನಪಿನಲ್ಲಿರಲು ನಿಮ್ಮ ಜನ್ಮದಿನಾಂಕ ಮತ್ತು ಮೊಬೈಲ್ ಸಂಖ್ಯೆ ಬಳಸುವುದು",
+      "ಎಲ್ಲಾ ಖಾತೆಗಳಿಗೂ 'Password@123' ಒಂದೇ ಪಾಸ್‌ವರ್ಡ್ ಇಡುವುದು",
+      "ಅಕ್ಷರಗಳು, ಸಂಖ್ಯೆಗಳು ಮತ್ತು ಚಿಹ್ನೆಗಳಿರುವ 14+ ಅಕ್ಷರಗಳ ವಿಶಿಷ್ಟ ಪಾಸ್‌ಫ್ರೇಸ್ ಬಳಸುವುದು",
+      "ಲ್ಯಾಪ್ಟಾಪ್ ಮೇಲೆ ಚೀಟಿ ಅಂಟಿಸಿ ಪಾಸ್‌ವರ್ಡ್ ಬರೆದಿಡುವುದು"
+    ],
+    "correct_index": 2,
+    "explanation_en": "Strong passphrases of 14+ random characters or memorable multi-word combinations with symbols are extremely difficult for cybercriminals to crack.",
+    "explanation_kn": "14 ಕ್ಕಿಂತ ಹೆಚ್ಚು ಅಕ್ಷರಗಳು, ಸಂಖ್ಯೆಗಳು ಮತ್ತು ಚಿಹ್ನೆಗಳನ್ನು ಒಳಗೊಂಡಿರುವ ವಿಶಿಷ್ಟ ಪಾಸ್‌ಫ್ರೇಸ್‌ಗಳನ್ನು ಭೇದಿಸುವುದು ಹ್ಯಾಕರ್‌ಗಳಿಗೆ ಅಸಾಧ್ಯ."
+  },
+  {
+    "id": "q3",
+    "difficulty": "easy",
+    "category": "otp",
+    "question_en": "A bank manager calls you asking for the 6-digit OTP sent to your phone to update your KYC. What should you do?",
+    "question_kn": "ಬ್ಯಾಂಕ್ ಮ್ಯಾನೇಜರ್ ಕರೆ ಮಾಡಿ ನಿಮ್ಮ KYC ಅಪ್‌ಡೇಟ್ ಮಾಡಲು ಮೊಬೈಲ್‌ಗೆ ಬಂದ 6 ಅಂಕಿಯ OTP ತಿಳಿಸಿ ಎನ್ನುತ್ತಾರೆ. ನೀವೇನು ಮಾಡುತ್ತೀರಿ?",
+    "options_en": [
+      "Share the OTP immediately since he is a bank manager",
+      "Refuse and disconnect immediately; banks never ask for OTPs",
+      "Ask him to call back in 10 minutes",
+      "Send the OTP through WhatsApp text instead of speaking"
+    ],
+    "options_kn": [
+      "ಅವರು ಬ್ಯಾಂಕ್ ಮ್ಯಾನೇಜರ್ ಆದ ಕಾರಣ ತಕ್ಷಣ OTP ತಿಳಿಸುವುದು",
+      "ತಿರಸ್ಕರಿಸಿ ತಕ್ಷಣ ಕರೆ ಕಟ್ ಮಾಡುವುದು; ಬ್ಯಾಂಕ್ ಎಂದಿಗೂ OTP ಕೇಳುವುದಿಲ್ಲ",
+      "10 ನಿಮಿಷ ಬಿಟ್ಟು ಕರೆ ಮಾಡಲು ಹೇಳುವುದು",
+      "ಬಾಯಲ್ಲಿ ಹೇಳುವ ಬದಲು ವಾಟ್ಸಾಪ್‌ನಲ್ಲಿ OTP ಕಳುಹಿಸುವುದು"
+    ],
+    "correct_index": 1,
+    "explanation_en": "Bank employees, RBI representatives, and police officials will NEVER ask for your OTP. Anyone asking for OTP over a phone call is a scammer.",
+    "explanation_kn": "ಯಾವುದೇ ಬ್ಯಾಂಕ್ ಸಿಬ್ಬಂದಿ ಅಥವಾ ಪೊಲೀಸರು ಎಂದಿಗೂ OTP ಕೇಳುವುದಿಲ್ಲ. ಫೋನ್‌ನಲ್ಲಿ OTP ಕೇಳುವ ಪ್ರತಿಯೊಬ್ಬರೂ ವಂಚಕರೇ."
+  },
+  {
+    "id": "q4",
+    "difficulty": "easy",
+    "category": "phishing",
+    "question_en": "You receive an SMS saying: 'Electricity will be disconnected tonight at 9:30 PM. Call 9876543210'. What should you do?",
+    "question_kn": "'ಇಂದು ರಾತ್ರಿ 9:30 ಕ್ಕೆ ವಿದ್ಯುತ್ ಸಂಪರ್ಕ ಕಡಿತಗೊಳ್ಳಲಿದೆ. ತಕ್ಷಣ 9876543210 ಗೆ ಕರೆ ಮಾಡಿ' ಎಂದು SMS ಬಂದರೆ ಏನು ಮಾಡಬೇಕು?",
+    "options_en": [
+      "Call the number immediately and make payment via Google Pay",
+      "Ignore the personal number and check your bill on the official BESCOM/Electricity website",
+      "Forward the message to your family group immediately",
+      "Install the app the caller suggests"
+    ],
+    "options_kn": [
+      "ತಕ್ಷಣ ಆ ಸಂಖ್ಯೆಗೆ ಕರೆ ಮಾಡಿ ಗೂಗಲ್ ಪೇ ಮೂಲಕ ಹಣ ಪಾವತಿಸುವುದು",
+      "ಆ ಮೊಬೈಲ್ ಸಂಖ್ಯೆಯನ್ನು ನಿರ್ಲಕ್ಷಿಸಿ, ಅಧಿಕೃತ ವಿದ್ಯುತ್ ಮಂಡಳಿ ವೆಬ್‌ಸೈಟ್‌ನಲ್ಲಿ ಪರಿಶೀಲಿಸುವುದು",
+      "ಸಂದೇಶವನ್ನು ಕುಟುಂಬದ ವಾಟ್ಸಾಪ್ ಗ್ರೂಪ್‌ಗೆ ಫಾರ್ವರ್ಡ್ ಮಾಡುವುದು",
+      "ಅವರು ಹೇಳುವ ಆ್ಯಪ್ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡುವುದು"
+    ],
+    "correct_index": 1,
+    "explanation_en": "Electricity boards never send disconnection threats from personal 10-digit mobile numbers. Always verify bills via official portals or customer centers.",
+    "explanation_kn": "ವಿದ್ಯುತ್ ಇಲಾಖೆಯು ವೈಯಕ್ತಿಕ ಮೊಬೈಲ್ ಸಂಖ್ಯೆಯಿಂದ ಬೆದರಿಕೆ ಸಂದೇಶ ಕಳುಹಿಸುವುದಿಲ್ಲ. ಯಾವಾಗಲೂ ಅಧಿಕೃತ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಮಾತ್ರ ಬಿಲ್ ಪರಿಶೀಲಿಸಿ."
+  },
+  {
+    "id": "q5",
+    "difficulty": "easy",
+    "category": "emergency",
+    "question_en": "What is the official National Cyber Crime Reporting Helpline number in India?",
+    "question_kn": "ಭಾರತದಲ್ಲಿ ಹಣಕಾಸು ಸೈಬರ್ ವಂಚನೆ ವರದಿ ಮಾಡಲು ರಾಷ್ಟ್ರೀಯ ತುರ್ತು ಸಹಾಯವಾಣಿ ಸಂಖ್ಯೆ ಯಾವುದು?",
+    "options_en": [
+      "100",
+      "1930",
+      "1098",
+      "1800"
+    ],
+    "options_kn": [
+      "100",
+      "1930",
+      "1098",
+      "1800"
+    ],
+    "correct_index": 1,
+    "explanation_en": "1930 is the official National Cyber Crime Helpline (formerly 155260) operated by the Ministry of Home Affairs to quickly freeze scammed funds.",
+    "explanation_kn": "1930 ಭಾರತ ಸರ್ಕಾರದ ಗೃಹ ಸಚಿವಾಲಯದ ಅಧಿಕೃತ ರಾಷ್ಟ್ರೀಯ ಸೈಬರ್ ಕ್ರೈಂ ಹೆಲ್ಪ್‌ಲೈನ್ ಸಂಖ್ಯೆಯಾಗಿದೆ."
+  },
+  {
+    "id": "q6",
+    "difficulty": "easy",
+    "category": "wifi",
+    "question_en": "Why is it unsafe to perform netbanking or online shopping on free public Wi-Fi (like at a railway station)?",
+    "question_kn": "ರೈಲ್ವೆ ನಿಲ್ದಾಣ ಅಥವಾ ಕೆಫೆಯಲ್ಲಿನ ಉಚಿತ ಸಾರ್ವಜನಿಕ ವೈ-ಫೈ ಬಳಸಿ ನೆಟ್‌ಬ್ಯಾಂಕಿಂಗ್ ಮಾಡುವುದು ಏಕೆ ಅಪಾಯಕಾರಿ?",
+    "options_en": [
+      "Public Wi-Fi consumes more phone battery",
+      "Cybercriminals on the same network can intercept unencrypted data and passwords",
+      "The connection speed is too fast for secure banking",
+      "Public Wi-Fi turns off your phone screen automatically"
+    ],
+    "options_kn": [
+      "ಸಾರ್ವಜನಿಕ ವೈ-ಫೈ ಹೆಚ್ಚಿನ ಬ್ಯಾಟರಿ ಬಳಸುತ್ತದೆ",
+      "ಅದೇ ನೆಟ್‌ವರ್ಕ್‌ನಲ್ಲಿರುವ ಹ್ಯಾಕರ್‌ಗಳು ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್ ಮತ್ತು ಡೇಟಾವನ್ನು ಕದಿಯಬಹುದು",
+      "ಬ್ಯಾಂಕಿಂಗ್ ಮಾಡಲು ವೇಗ ಅತಿಯಾಗಿರುತ್ತದೆ",
+      "ಫೋನ್ ಸ್ಕ್ರೀನ್ ತಾನಾಗಿಯೇ ಆಫ್ ಆಗುತ್ತದೆ"
+    ],
+    "correct_index": 1,
+    "explanation_en": "Public unencrypted networks allow attackers to execute 'Man-in-the-Middle' (MitM) attacks and capture your credentials. Always use mobile data or a trusted VPN.",
+    "explanation_kn": "ಸಾರ್ವಜನಿಕ ನೆಟ್‌ವರ್ಕ್‌ನಲ್ಲಿರುವ ಸೈಬರ್ ಕ್ರಿಮಿನಲ್‌ಗಳು ನಿಮ್ಮ ಲಾಗಿನ್ ಮಾಹಿತಿ ಮತ್ತು ಪಾಸ್‌ವರ್ಡ್‌ಗಳನ್ನು ಕದಿಯುವ ಅಪಾಯವಿರುತ್ತದೆ."
+  },
+  {
+    "id": "q7",
+    "difficulty": "easy",
+    "category": "student",
+    "question_en": "A stranger in an online gaming lobby offers you 'Free 10,000 Diamonds / V-Bucks' if you log in through a link. What is this?",
+    "question_kn": "ಆನ್‌ಲೈನ್ ಗೇಮ್‌ನಲ್ಲಿ ಅಪರಿಚಿತ ವ್ಯಕ್ತಿಯೊಬ್ಬ ಲಿಂಕ್ ಕ್ಲಿಕ್ ಮಾಡಿ ಲಾಗಿನ್ ಆದರೆ 'ಉಚಿತ 10,000 ಡೈಮಂಡ್ಸ್' ಕೊಡುವುದಾಗಿ ಹೇಳಿದರೆ ಅದು ಏನು?",
+    "options_en": [
+      "A generous gamer reward",
+      "A phishing trap to steal your gaming credentials and inventory",
+      "An official game developer promotion",
+      "A harmless cheat code"
+    ],
+    "options_kn": [
+      "ಆಟಗಾರನ ಉದಾರ ಕೊಡುಗೆ",
+      "ನಿಮ್ಮ ಗೇಮಿಂಗ್ ಖಾತೆ ಮತ್ತು ಐಟಂಗಳನ್ನು ಕದಿಯುವ ಫಿಶಿಂಗ್ ಬಲೆ",
+      "ಅಧಿಕೃತ ಗೇಮ್ ಪ್ರಚಾರ",
+      "ಹಾನಿಕಾರಕವಲ್ಲದ ಚೀಟ್ ಕೋಡ್"
+    ],
+    "correct_index": 1,
+    "explanation_en": "Fake item/diamond giveaways are designed to harvest credentials for Steam, Epic, BGMI, and Roblox accounts.",
+    "explanation_kn": "ಉಚಿತ ಗೇಮ್ ಐಟಂಗಳ ಆಮಿಷವೊಡ್ಡಿ ನಿಮ್ಮ ಗೇಮಿಂಗ್ ಖಾತೆಯ ಐಡಿ ಮತ್ತು ಪಾಸ್‌ವರ್ಡ್ ಕದಿಯುವ ತಂತ್ರವಿದು."
+  },
+  {
+    "id": "q8",
+    "difficulty": "easy",
+    "category": "senior",
+    "question_en": "A polite caller asks a senior citizen to download 'AnyDesk' to fix a pension verification issue. What should the senior do?",
+    "question_kn": "ಪಿಂಚಣಿ ಸಮಸ್ಯೆ ಬಗೆಹರಿಸಲು AnyDesk ಆ್ಯಪ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ ಎಂದು ಹಿರಿಯ ನಾಗರಿಕರಿಗೆ ಕರೆ ಬಂದರೆ ಏನು ಮಾಡಬೇಕು?",
+    "options_en": [
+      "Download it and share the 9-digit code",
+      "Refuse immediately, hang up, and consult a family member or the bank directly",
+      "Ask the caller to deposit pension first",
+      "Keep the call on speaker while installing"
+    ],
+    "options_kn": [
+      "ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ 9 ಅಂಕಿಯ ಕೋಡ್ ತಿಳಿಸುವುದು",
+      "ತಕ್ಷಣ ತಿರಸ್ಕರಿಸಿ, ಕರೆ ಕಟ್ ಮಾಡಿ ಕುಟುಂಬದವರಿಗೆ ಅಥವಾ ಬ್ಯಾಂಕಿಗೆ ತಿಳಿಸುವುದು",
+      "ಮೊದಲು ಪಿಂಚಣಿ ಹಾಕಿ ನಂತರ ಆ್ಯಪ್ ಹಾಕುತ್ತೇನೆ ಎನ್ನುವುದು",
+      "ಸ್ಪೀಕರ್ ಆನ್ ಮಾಡಿ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡುವುದು"
+    ],
+    "correct_index": 1,
+    "explanation_en": "AnyDesk allows remote control of your screen. Installing it on an unknown caller's instruction gives them access to steal your money.",
+    "explanation_kn": "AnyDesk ನಿಮ್ಮ ಮೊಬೈಲ್ ಸ್ಕ್ರೀನ್ ಅನ್ನು ವಂಚಕರಿಗೆ ತೋರಿಸುತ್ತದೆ. ಅಪರಿಚಿತರ ಮಾತನ್ನು ಕೇಳಿ ಎಂದಿಗೂ ಈ ಆ್ಯಪ್ ಹಾಕಿಕೊಳ್ಳಬಾರದು."
+  },
+  {
+    "id": "q9",
+    "difficulty": "easy",
+    "category": "qr",
+    "question_en": "Can you RECEIVE money into your bank account by scanning someone else's QR code?",
+    "question_kn": "ಬೇರೆಯವರ ಕ್ಯೂಆರ್ ಕೋಡ್ (QR Code) ಸ್ಕ್ಯಾನ್ ಮಾಡುವ ಮೂಲಕ ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಖಾತೆಗೆ ಹಣ ಪಡೆಯಲು ಸಾಧ್ಯವೇ?",
+    "options_en": [
+      "Yes, if you enter your 4-digit PIN",
+      "NO. Scanning a QR code is strictly for SENDING money, never receiving",
+      "Yes, but only on weekends",
+      "Yes, on merchant accounts only"
+    ],
+    "options_kn": [
+      "ಹೌದು, 4 ಅಂಕಿಯ ಪಿನ್ ಹಾಕಿದರೆ ಸಾಧ್ಯ",
+      "ಖಂಡಿತ ಇಲ್ಲ! ಕ್ಯೂಆರ್ ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡುವುದು ಕೇವಲ ಹಣ ಕಳುಹಿಸಲು ಮಾತ್ರ",
+      "ಹೌದು, ಕೇವಲ ವಾರಾಂತ್ಯದಲ್ಲಿ ಸಾಧ್ಯ",
+      "ಹೌದು, ವ್ಯಾಪಾರಿ ಖಾತೆಗಳಲ್ಲಿ ಮಾತ್ರ"
+    ],
+    "correct_index": 1,
+    "explanation_en": "In digital payments, scanning a QR code is strictly a payment initiation (push). You never scan a QR code to receive money.",
+    "explanation_kn": "ಕ್ಯೂಆರ್ ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡುವುದು ಕೇವಲ ಹಣ ಪಾವತಿಸಲು ಮಾತ್ರ. ಹಣ ಪಡೆಯಲು ಎಂದಿಗೂ ಸ್ಕ್ಯಾನ್ ಮಾಡಬಾರದು."
+  },
+  {
+    "id": "q10",
+    "difficulty": "easy",
+    "category": "social_media",
+    "question_en": "What does a padlock icon (HTTPS) in your web browser's address bar signify?",
+    "question_kn": "ವೆಬ್ ಬ್ರೌಸರ್ ವಿಳಾಸ ಪಟ್ಟಿಯಲ್ಲಿರುವ ಬೀಗದ ಚಿಹ್ನೆ (HTTPS) ಏನನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+    "options_en": [
+      "The website is 100% legal and can never scam you",
+      "The connection between your browser and the website is encrypted",
+      "The website is owned by the Government of India",
+      "The website has no viruses"
+    ],
+    "options_kn": [
+      "ಆ ವೆಬ್‌ಸೈಟ್ 100% ಕಾನೂನುಬದ್ಧ ಮತ್ತು ಎಂದಿಗೂ ಮೋಸ ಮಾಡುವುದಿಲ್ಲ",
+      "ನಿಮ್ಮ ಬ್ರೌಸರ್ ಮತ್ತು ವೆಬ್‌ಸೈಟ್ ನಡುವಿನ ಸಂವಹನ ಎನ್‌ಕ್ರಿಪ್ಟ್ ಆಗಿದೆ",
+      "ಆ ವೆಬ್‌ಸೈಟ್ ಭಾರತ ಸರ್ಕಾರಕ್ಕೆ ಸೇರಿದ್ದು",
+      "ಆ ವೆಬ್‌ಸೈಟ್‌ನಲ್ಲಿ ಯಾವುದೇ ವೈರಸ್ ಇಲ್ಲ"
+    ],
+    "correct_index": 1,
+    "explanation_en": "HTTPS encrypts the data in transit. However, note that malicious phishing sites can also have HTTPS! You must still inspect the domain spelling carefully.",
+    "explanation_kn": "HTTPS ನಿಮ್ಮ ಡೇಟಾ ಎನ್‌ಕ್ರಿಪ್ಟ್ ಆಗಿರುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಆದರೆ ನಕಲಿ ಸೈಟ್‌ಗಳೂ HTTPS ಹೊಂದಿರಬಹುದು, ಆದ್ದರಿಂದ ಡೊಮೈನ್ ಹೆಸರನ್ನು ಸೂಕ್ಷ್ಮವಾಗಿ ಗಮನಿಸಬೇಕು."
+  },
+  {
+    "id": "q11",
+    "difficulty": "medium",
+    "category": "phishing",
+    "question_en": "Which of the following domain names is an obvious phishing attempt targeting State Bank of India?",
+    "question_kn": "ಸ್ಟೇಟ್ ಬ್ಯಾಂಕ್ ಆಫ್ ಇಂಡಿಯಾವನ್ನು ಗುರಿಯಾಗಿಸಿಕೊಂಡಿರುವ ನಕಲಿ ಫಿಶಿಂಗ್ ವೆಬ್ ವಿಳಾಸ ಯಾವುದು?",
+    "options_en": [
+      "https://bank.sbi",
+      "https://www.onlinesbi.sbi",
+      "https://onlinesbi-kyc-verification.net",
+      "https://sbi.co.in"
+    ],
+    "options_kn": [
+      "https://bank.sbi",
+      "https://www.onlinesbi.sbi",
+      "https://onlinesbi-kyc-verification.net",
+      "https://sbi.co.in"
+    ],
+    "correct_index": 2,
+    "explanation_en": "SBI owns the top-level domain '.sbi' and official domains like sbi.co.in. Unofficial domain endings like '.net' with hyphenated keywords are clear phishing traps.",
+    "explanation_kn": "SBI ಅಧಿಕೃತವಾಗಿ '.sbi' ಮತ್ತು sbi.co.in ಡೊಮೇನ್ ಹೊಂದಿದೆ. '.net' ನಂತಹ ಅನಧಿಕೃತ ಸೈಟ್‌ಗಳು ಖಂಡಿತ ನಕಲಿ ಫಿಶಿಂಗ್ ಸೈಟ್‌ಗಳು."
+  },
+  {
+    "id": "q12",
+    "difficulty": "medium",
+    "category": "student",
+    "question_en": "What is the primary danger of using the same password across Instagram, Gmail, and college portals?",
+    "question_kn": "ಇನ್‌ಸ್ಟಾಗ್ರಾಮ್, ಜಿಮೇಲ್ ಮತ್ತು ಕಾಲೇಜು ಪೋರ್ಟಲ್‌ಗಳಿಗೆ ಒಂದೇ ಪಾಸ್‌ವರ್ಡ್ ಬಳಸುವುದರಿಂದ ಉಂಟಾಗುವ ಮುಖ್ಯ ಅಪಾಯವೇನು?",
+    "options_en": [
+      "It makes your internet connection slower",
+      "Credential Stuffing: If one service suffers a data leak, hackers can unlock all your other accounts",
+      "It requires more phone memory",
+      "Your photos will be deleted automatically"
+    ],
+    "options_kn": [
+      "ಇಂಟರ್ನೆಟ್ ವೇಗ ಕಡಿಮೆಯಾಗುತ್ತದೆ",
+      "ಕ್ರಿಡೆನ್ಶಿಯಲ್ ಸ್ಟಫಿಂಗ್: ಒಂದು ಸೈಟ್ ಹ್ಯಾಕ್ ಆದರೆ, ಅದೇ ಪಾಸ್‌ವರ್ಡ್ ಬಳಸಿ ಹ್ಯಾಕರ್‌ಗಳು ನಿಮ್ಮ ಎಲ್ಲಾ ಖಾತೆಗಳನ್ನು ತೆರೆಯುತ್ತಾರೆ",
+      "ಹೆಚ್ಚಿನ ಫೋನ್ ಮೆಮೊರಿ ಬೇಕಾಗುತ್ತದೆ",
+      "ನಿಮ್ಮ ಫೋಟೋಗಳು ಡಿಲೀಟ್ ಆಗುತ್ತವೆ"
+    ],
+    "correct_index": 1,
+    "explanation_en": "When a low-security website suffers a breach, criminals run automated scripts (credential stuffing) testing those leaked passwords against major platforms.",
+    "explanation_kn": "ಒಂದು ವೆಬ್‌ಸೈಟ್ ಹ್ಯಾಕ್ ಆದಾಗ ಸೋರಿಕೆಯಾದ ಪಾಸ್‌ವರ್ಡ್ ಬಳಸಿ ನಿಮ್ಮ ಇಮೇಲ್, ಬ್ಯಾಂಕಿಂಗ್ ಮತ್ತು ಸೋಷಿಯಲ್ ಮೀಡಿಯಾಗಳನ್ನು ಸುಲಭವಾಗಿ ಹ್ಯಾಕ್ ಮಾಡಬಹುದು."
+  },
+  {
+    "id": "q13",
+    "difficulty": "medium",
+    "category": "upi",
+    "question_en": "What is a 'UPI Collect Request' and how do scammers misuse it?",
+    "question_kn": "'ಯುಪಿಐ ಕಲೆಕ್ಟ್ ರಿಕ್ವೆಸ್ಟ್' ಎಂದರೇನು ಮತ್ತು ವಂಚಕರು ಇದನ್ನು ಹೇಗೆ ದುರುಪಯೋಗಪಡಿಸಿಕೊಳ್ಳುತ್ತಾರೆ?",
+    "options_en": [
+      "It is a feature to donate money to charities only",
+      "It is a request asking the recipient to PAY money, disguised by scammers as a 'refund acceptance' button",
+      "It is a system to recover stolen mobile phones",
+      "It is an alert sent by the Reserve Bank of India"
+    ],
+    "options_kn": [
+      "ಕೇವಲ ದಾನ ನೀಡಲು ಬಳಸುವ ವೈಶಿಷ್ಟ್ಯ",
+      "ಇದು ಹಣ ಪಾವತಿಸಲು ಕೇಳುವ ರಿಕ್ವೆಸ್ಟ್, ಇದನ್ನು ರಿಫಂಡ್ ಎಂದು ಸುಳ್ಳು ಹೇಳಿ ಹಣ ಕಡಿತ ಮಾಡುತ್ತಾರೆ",
+      "ಕಳೆದುಹೋದ ಮೊಬೈಲ್ ಹುಡುಕುವ ವ್ಯವಸ್ಥೆ",
+      "ಆರ್‌ಬಿಐ ಕಳುಹಿಸುವ ಎಚ್ಚರಿಕೆಯ ಸಂದೇಶ"
+    ],
+    "correct_index": 1,
+    "explanation_en": "A collect request is a payment demand initiated by a sender. Scammers send collect requests claiming it is a reward, tricking you into pressing 'Pay' and entering your PIN.",
+    "explanation_kn": "ಕಲೆಕ್ಟ್ ರಿಕ್ವೆಸ್ಟ್ ಎಂದರೆ ಹಣ ಪಾವತಿಸುವಂತೆ ಕೋರುವುದು. ವಂಚಕರು ಹಣ ನೀಡುತ್ತಿದ್ದೇವೆ ಎಂದು ಸುಳ್ಳು ಹೇಳಿ ಹಣ ಕಡಿತ ಮಾಡುತ್ತಾರೆ."
+  },
+  {
+    "id": "q14",
+    "difficulty": "medium",
+    "category": "identity",
+    "question_en": "What is 'Masked Aadhaar' and why does UIDAI recommend using it?",
+    "question_kn": "'ಮಾಸ್ಕ್ಡ್ ಆಧಾರ್' (Masked Aadhaar) ಎಂದರೇನು ಮತ್ತು ಅದನ್ನು ಏಕೆ ಬಳಸಬೇಕು?",
+    "options_en": [
+      "An Aadhaar card that comes with a black plastic cover",
+      "An Aadhaar copy displaying only the last 4 digits, protecting your full 12-digit number from identity theft",
+      "An Aadhaar card meant only for international travelers",
+      "A cancelled Aadhaar card"
+    ],
+    "options_kn": [
+      "ಕಪ್ಪು ಪ್ಲಾಸ್ಟಿಕ್ ಕವರ್ ಇರುವ ಆಧಾರ್",
+      "ಕೊನೆಯ 4 ಅಂಕಿಗಳನ್ನು ಮಾತ್ರ ತೋರಿಸುವ ಆಧಾರ್ ಪ್ರತಿ, ಇದು ನಿಮ್ಮ ಪೂರ್ಣ ಗುರುತನ್ನು ರಕ್ಷಿಸುತ್ತದೆ",
+      "ವಿದೇಶ ಪ್ರಯಾಣಿಕರಿಗೆ ಮಾತ್ರ ನೀಡುವ ಆಧಾರ್",
+      "ರದ್ದುಪಡಿಸಲಾದ ಆಧಾರ್ ಕಾರ್ಡ್"
+    ],
+    "correct_index": 1,
+    "explanation_en": "Masked Aadhaar masks the first 8 digits (xxxx-xxxx-1234) and is legally valid for KYC everywhere, preventing unauthorized profiling and identity theft.",
+    "explanation_kn": "ಮಾಸ್ಕ್ಡ್ ಆಧಾರ್‌ನಲ್ಲಿ ಮೊದಲ 8 ಅಂಕಿಗಳು ಮರೆಯಾಗಿರುತ್ತವೆ (xxxx-xxxx-1234). ಇದು ನಿಮ್ಮ ಗುರುತು ಕಳ್ಳತನವಾಗುವುದನ್ನು ತಡೆಯುತ್ತದೆ ಮತ್ತು ಎಲ್ಲೆಡೆ ಮಾನ್ಯವಾಗಿದೆ."
+  },
+  {
+    "id": "q15",
+    "difficulty": "medium",
+    "category": "passwords",
+    "question_en": "Between SMS-based OTP and an Authenticator App (TOTP like Google Authenticator), which is more secure and why?",
+    "question_kn": "SMS OTP ಮತ್ತು ಅಥೆಂಟಿಕೇಟರ್ ಆ್ಯಪ್ (ಗೂಗಲ್ ಅಥೆಂಟಿಕೇಟರ್) ಇವೆರಡರಲ್ಲಿ ಯಾವುದು ಹೆಚ್ಚು ಸುರಕ್ಷಿತ ಮತ್ತು ಏಕೆ?",
+    "options_en": [
+      "SMS OTP, because SMS cannot be intercepted",
+      "Authenticator App, because it does not depend on telecom networks and is immune to SIM swap attacks",
+      "Both are equally unsafe",
+      "Neither; passwords without 2FA are safer"
+    ],
+    "options_kn": [
+      "SMS OTP, ಏಕೆಂದರೆ SMS ಅನ್ನು ಯಾರೂ ಕದಿಯಲು ಸಾಧ್ಯವಿಲ್ಲ",
+      "ಅಥೆಂಟಿಕೇಟರ್ ಆ್ಯಪ್, ಏಕೆಂದರೆ ಇದು ಸಿಮ್ ಸ್ವ್ಯಾಪ್ ದಾಳಿಯಿಂದ ಸುರಕ್ಷಿತವಾಗಿದೆ",
+      "ಎರಡೂ ಸಮಾನವಾಗಿ ಅಸುರಕ್ಷಿತ",
+      "2FA ಇಲ್ಲದ ಪಾಸ್‌ವರ್ಡ್ ಹೆಚ್ಚು ಸುರಕ್ಷಿತ"
+    ],
+    "correct_index": 1,
+    "explanation_en": "SMS can be intercepted via SIM swapping or SS7 network exploits. Authenticator apps generate time-based codes locally on the device without relying on cellular towers.",
+    "explanation_kn": "ಸಿಮ್ ಸ್ವ್ಯಾಪ್ ಮೂಲಕ SMS ಕದಿಯಬಹುದು. ಆದರೆ ಗೂಗಲ್ ಅಥೆಂಟಿಕೇಟರ್ ಆ್ಯಪ್ ಮೊಬೈಲ್‌ನಲ್ಲೇ ಕೋಡ್ ಜನರೇಟ್ ಮಾಡುವುದರಿಂದ ಹೆಚ್ಚು ಸುರಕ್ಷಿತ."
+  },
+  {
+    "id": "q16",
+    "difficulty": "medium",
+    "category": "senior",
+    "question_en": "A WhatsApp message from an unknown overseas number claims: 'Part-time job: Like 3 YouTube videos and earn ₹500 immediately'. What is the criminal strategy here?",
+    "question_kn": "'ಯೂಟ್ಯೂಬ್ ವಿಡಿಯೋ ಲೈಕ್ ಮಾಡಿ ತಕ್ಷಣ ₹500 ಗಳಿಸಿ' ಎಂಬ ವಾಟ್ಸಾಪ್ ಮೆಸೇಜ್‌ನ ಹಿಂದಿರುವ ವಂಚಕರ ಸಂಚು ಏನು?",
+    "options_en": [
+      "Legitimate marketing sponsorship",
+      "Task-based scam: They pay ₹200-500 first to win your trust, then convince you to invest lakhs in fake VIP tasks",
+      "Government skill enhancement program",
+      "YouTube promotion giveaway"
+    ],
+    "options_kn": [
+      "ಕಾನೂನುಬದ್ಧ ಮಾರ್ಕೆಟಿಂಗ್ ಜಾಹೀರಾತು",
+      "ಟಾಸ್ಕ್ ವಂಚನೆ: ಆರಂಭದಲ್ಲಿ ₹200 ನೀಡಿ ನಂಬಿಕೆ ಗಳಿಸಿ, ನಂತರ ಹೂಡಿಕೆ ನೆಪದಲ್ಲಿ ಲಕ್ಷಾಂತರ ರೂಪಾಯಿ ದೋಚುವುದು",
+      "ಸರ್ಕಾರದ ಕೌಶಲ್ಯ ಅಭಿವೃದ್ಧಿ ಯೋಜನೆ",
+      "ಯೂಟ್ಯೂಬ್ ಪ್ರಚಾರ ಯೋಜನೆ"
+    ],
+    "correct_index": 1,
+    "explanation_en": "This is a textbook Prepaid Task scam. Criminals deliberately pay a tiny sum initially so you drop your guard and deposit huge sums later.",
+    "explanation_kn": "ಇದು ಪ್ರೀಪೇಯ್ಡ್ ಟಾಸ್ಕ್ ಹಗರಣ. ಆರಂಭದಲ್ಲಿ ಸಣ್ಣ ಮೊತ್ತ ನೀಡಿ ನಂಬಿಸಿ, ನಂತರ ದೊಡ್ಡ ಮೊತ್ತದ ಹಣ ಹೂಡಿಕೆ ಮಾಡಿಸಿ ಮೋಸ ಮಾಡುತ್ತಾರೆ."
+  },
+  {
+    "id": "q17",
+    "difficulty": "medium",
+    "category": "malware",
+    "question_en": "Why should Android users be extremely cautious of downloading APK files directly from WhatsApp or Telegram?",
+    "question_kn": "ವಾಟ್ಸಾಪ್ ಅಥವಾ ಟೆಲಿಗ್ರಾಂ ಲಿಂಕ್ ಮೂಲಕ ನೇರವಾಗಿ APK ಫೈಲ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡುವುದು ಏಕೆ ಅಪಾಯಕಾರಿ?",
+    "options_en": [
+      "APKs make your WhatsApp chats visible to your friends",
+      "Sideloaded APKs bypass Google Play Protect and can contain spyware, keyloggers, and banking Trojans",
+      "APKs automatically charge ₹1,000 to your phone bill",
+      "APKs reduce the camera quality of your phone"
+    ],
+    "options_kn": [
+      "APK ಗಳು ನಿಮ್ಮ ವಾಟ್ಸಾಪ್ ಚಾಟ್‌ಗಳನ್ನು ಸ್ನೇಹಿತರಿಗೆ ತೋರಿಸುತ್ತವೆ",
+      "ಹೊರಗಿನ APK ಗಳಲ್ಲಿ ಬ್ಯಾಂಕಿಂಗ್ ಟ್ರೋಜನ್ ಮತ್ತು ಸ್ಪೈವೇರ್ ವೈರಸ್ ಇರಬಹುದು, ಇವು ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್ ಕದಿಯುತ್ತವೆ",
+      "ಫೋನ್ ಬಿಲ್‌ಗೆ ತಾನಾಗಿಯೇ ಹಣ ಸೇರಿಸುತ್ತವೆ",
+      "ಕ್ಯಾಮೆರಾ ಗುಣಮಟ್ಟ ಹಾಳುಮಾಡುತ್ತವೆ"
+    ],
+    "correct_index": 1,
+    "explanation_en": "Malicious APK files distributed outside official app stores often contain banking trojans like SharkBot or Cerberus that intercept SMS and keystrokes.",
+    "explanation_kn": "ಹೊರಗಿನ APK ಗಳು ಬ್ಯಾಂಕಿಂಗ್ ಟ್ರೋಜನ್‌ಗಳನ್ನು ಹೊಂದಿದ್ದು, ನಿಮ್ಮ SMS ಮತ್ತು ಪಾಸ್‌ವರ್ಡ್‌ಗಳನ್ನು ಕದ್ದು ಹಣ ಲೂಟಿ ಮಾಡುತ್ತವೆ."
+  },
+  {
+    "id": "q18",
+    "difficulty": "medium",
+    "category": "emergency",
+    "question_en": "What is the critical 'Golden Hour' in cyber fraud reporting?",
+    "question_kn": "ಸೈಬರ್ ವಂಚನೆ ವರದಿಯಲ್ಲಿ 'ಗೋಲ್ಡನ್ ಅವರ್' (Golden Hour) ಎಂದರೆ ಏನು?",
+    "options_en": [
+      "The first hour of every new year when online shopping is free",
+      "The first 1 to 2 hours immediately after money is scammed, when banks can freeze the beneficiary account",
+      "The hour between 12 AM and 1 AM when cyber cells are closed",
+      "The time taken to download your bank passbook"
+    ],
+    "options_kn": [
+      "ಹೊಸ ವರ್ಷದ ಮೊದಲ ಗಂಟೆ",
+      "ಹಣ ಕಳೆದುಕೊಂಡ ಮೊದಲ 1-2 ಗಂಟೆಗಳು, ಈ ಸಮಯದಲ್ಲಿ ಬ್ಯಾಂಕ್ ಹಣವನ್ನು ಬೇರೆಡೆ ಹೋಗದಂತೆ ತಡೆಯಬಹುದು",
+      "ಮಧ್ಯರಾತ್ರಿ 12 ರಿಂದ 1 ಗಂಟೆಯ ಸಮಯ",
+      "ಪಾಸ್‌ಬುಕ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡುವ ಸಮಯ"
+    ],
+    "correct_index": 1,
+    "explanation_en": "Reporting financial fraud to 1930 within the first 1-2 hours enables the Indian Cyber Crime Coordination Centre (I4C) to place a lien on the fraudster's bank account before withdrawal.",
+    "explanation_kn": "ಹಣ ಕಳೆದುಕೊಂಡ ಮೊದಲ 1-2 ಗಂಟೆಯೊಳಗೆ 1930 ಗೆ ಕರೆ ಮಾಡಿದರೆ ವಂಚಕರ ಬ್ಯಾಂಕ್ ಖಾತೆಯನ್ನು ಫ್ರೀಜ್ ಮಾಡಿ ಹಣ ಉಳಿಸಬಹುದು."
+  },
+  {
+    "id": "q19",
+    "difficulty": "medium",
+    "category": "social_media",
+    "question_en": "A close friend sends you an Instagram message from a newly created account asking for ₹10,000 urgent medical help. What is the safest response?",
+    "question_kn": "ಆಪ್ತ ಸ್ನೇಹಿತನ ಹೊಸ ಇನ್‌ಸ್ಟಾಗ್ರಾಮ್ ಖಾತೆಯಿಂದ 'ತುರ್ತು ವೈದ್ಯಕೀಯ ಚಿಕಿತ್ಸೆಗೆ ₹10,000 ಬೇಕು' ಎಂದು ಮೆಸೇಜ್ ಬಂದರೆ ಅತ್ಯಂತ ಸುರಕ್ಷಿತ ಕ್ರಮ ಯಾವುದು?",
+    "options_en": [
+      "Send ₹5,000 immediately to be helpful",
+      "Call your friend directly on their known phone number before transferring any money",
+      "Ask them to send a photo of the hospital bill on Instagram",
+      "Block their number permanently"
+    ],
+    "options_kn": [
+      "ಸಹಾಯ ಮಾಡಲು ತಕ್ಷಣ ₹5,000 ಕಳುಹಿಸುವುದು",
+      "ಹಣ ಕಳುಹಿಸುವ ಮುನ್ನ ಸ್ನೇಹಿತನ ಹಳೆಯ ಮೊಬೈಲ್ ಸಂಖ್ಯೆಗೆ ನೇರವಾಗಿ ಕರೆ ಮಾಡಿ ಮಾತನಾಡುವುದು",
+      "ಇನ್‌ಸ್ಟಾಗ್ರಾಮ್‌ನಲ್ಲಿ ಆಸ್ಪತ್ರೆ ಬಿಲ್ ಕಳುಹಿಸಲು ಹೇಳುವುದು",
+      "ತಕ್ಷಣ ಬ್ಲಾಕ್ ಮಾಡುವುದು"
+    ],
+    "correct_index": 1,
+    "explanation_en": "Scammers routinely clone profile pictures and bio data of social media users. Always verify emergency requests via an independent phone call.",
+    "explanation_kn": "ವಂಚಕರು ಸ್ನೇಹಿತರ ಫೋಟೋ ಬಳಸಿ ನಕಲಿ ಖಾತೆ ಸೃಷ್ಟಿಸುತ್ತಾರೆ. ಯಾವಾಗಲೂ ಅವರ ನೈಜ ಮೊಬೈಲ್ ಸಂಖ್ಯೆಗೆ ಕರೆ ಮಾಡಿ ದೃಢಪಡಿಸಿಕೊಳ್ಳಿ."
+  },
+  {
+    "id": "q20",
+    "difficulty": "medium",
+    "category": "wifi",
+    "question_en": "What is 'Shoulder Surfing' in cybersecurity?",
+    "question_kn": "ಸೈಬರ್ ಸುರಕ್ಷತೆಯಲ್ಲಿ 'ಶೋಲ್ಡರ್ ಸರ್ಫಿಂಗ್' (Shoulder Surfing) ಎಂದರೇನು?",
+    "options_en": [
+      "Surfing the internet while lying on your shoulder",
+      "Someone peeking over your shoulder at an ATM or bus stop to view your PIN or pattern",
+      "A type of shoulder exercise recommended for gamers",
+      "A hardware fault in laptop hinges"
+    ],
+    "options_kn": [
+      "ಭುಜದ ಮೇಲೆ ಮಲಗಿ ಇಂಟರ್ನೆಟ್ ನೋಡುವುದು",
+      "ಎಟಿಎಂ ಅಥವಾ ಸಾರ್ವಜನಿಕ ಸ್ಥಳದಲ್ಲಿ ನೀವು ಪಿನ್ ಅಥವಾ ಪಾಸ್‌ವರ್ಡ್ ನಮೂದಿಸುವಾಗ ಹಿಂದಿನಿಂದ ಕದ್ದು ನೋಡುವುದು",
+      "ಗೇಮರ್‌ಗಳಿಗೆ ಮಾಡುವ ವ್ಯಾಯಾಮ",
+      "ಲ್ಯಾಪ್ಟಾಪ್ ದೋಷ"
+    ],
+    "correct_index": 1,
+    "explanation_en": "Shoulder surfing involves physically looking over someone's shoulder to steal confidential PINs, passwords, or unlock patterns. Always shield keypad inputs.",
+    "explanation_kn": "ಎಟಿಎಂ ಅಥವಾ ಮೆಟ್ರೋದಲ್ಲಿ ನೀವು ಪಿನ್ ನಮೂದಿಸುವಾಗ ಇತರರು ಕದ್ದು ನೋಡಿ ಮಾಹಿತಿ ಕದಿಯುವುದನ್ನು ಶೋಲ್ಡರ್ ಸರ್ಫಿಂಗ್ ಎನ್ನುತ್ತಾರೆ."
+  },
+  {
+    "id": "q21",
+    "difficulty": "hard",
+    "category": "malware",
+    "question_en": "What is a 'SIM Swap Attack' and how is it executed?",
+    "question_kn": "'ಸಿಮ್ ಸ್ವ್ಯಾಪ್ ದಾಳಿ' (SIM Swap Attack) ಎಂದರೇನು ಮತ್ತು ಅದನ್ನು ಹೇಗೆ ನಡೆಸಲಾಗುತ್ತದೆ?",
+    "options_en": [
+      "Physically stealing a phone and removing the SIM tray",
+      "Fraudsters using fake IDs to convince telecom operators to issue a replacement SIM card under their control",
+      "Upgrading from 4G to 5G via SMS",
+      "Inserting two SIM cards into the same smartphone"
+    ],
+    "options_kn": [
+      "ಮೊಬೈಲ್ ಕದ್ದು ಸಿಮ್ ತೆಗೆಯುವುದು",
+      "ನಕಲಿ ದಾಖಲೆ ಸೃಷ್ಟಿಸಿ ಟೆಲಿಕಾಂ ಆಪರೇಟರ್‌ಗಳಿಂದ ನಿಮ್ಮ ಸಂಖ್ಯೆಯ ನಕಲಿ ಸಿಮ್ ಕಾರ್ಡ್ ಪಡೆದುಕೊಳ್ಳುವುದು",
+      "4G ಇಂದ 5G ಗೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡುವುದು",
+      "ಒಂದೇ ಫೋನ್‌ನಲ್ಲಿ ಎರಡು ಸಿಮ್ ಹಾಕುವುದು"
+    ],
+    "correct_index": 1,
+    "explanation_en": "In a SIM swap, social engineering or forged identity documents are used at carrier stores to reassign the victim's phone number to a criminal's SIM, cutting off the victim's service.",
+    "explanation_kn": "ವಂಚಕರು ನಕಲಿ ಐಡಿ ನೀಡಿ ಟೆಲಿಕಾಂ ಸ್ಟೋರ್‌ನಿಂದ ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಂಖ್ಯೆಯ ಹೊಸ ಸಿಮ್ ಪಡೆಯುತ್ತಾರೆ, ಇದರಿಂದ ನಿಮ್ಮ ಸಿಮ್ ಬಂದ್ ಆಗಿ ಅವರ ಸಿಮ್‌ಗೆ ಎಲ್ಲ OTP ಗಳು ಹೋಗುತ್ತವೆ."
+  },
+  {
+    "id": "q22",
+    "difficulty": "hard",
+    "category": "phishing",
+    "question_en": "What is 'Spear Phishing' compared to regular phishing?",
+    "question_kn": "ಸಾಮಾನ್ಯ ಫಿಶಿಂಗ್‌ಗೆ ಹೋಲಿಸಿದರೆ 'ಸ್ಪಿಯರ್ ಫಿಶಿಂಗ್' (Spear Phishing) ನ ವೈಶಿಷ್ಟ್ಯವೇನು?",
+    "options_en": [
+      "Phishing conducted using specialized fishing rods",
+      "A highly tailored, deeply researched attack targeted at a specific individual or organization using personal details",
+      "Phishing carried out exclusively over satellite telephones",
+      "Automated spam sent to millions of random email addresses"
+    ],
+    "options_kn": [
+      "ಮೀನು ಹಿಡಿಯುವ ಗಾಲ ಬಳಸಿ ಮಾಡುವ ದಾಳಿ",
+      "ನಿರ್ದಿಷ್ಟ ವ್ಯಕ್ತಿ ಅಥವಾ ಕಂಪನಿಯ ವೈಯಕ್ತಿಕ ವಿವರಗಳನ್ನು ಅಧ್ಯಯನ ಮಾಡಿ ಅತ್ಯಂತ ಸೂಕ್ಷ್ಮವಾಗಿ ಮಾಡುವ ಗುರಿ ಆಧಾರಿತ ದಾಳಿ",
+      "ಉಪಗ್ರಹ ಫೋನ್ ಮೂಲಕ ಮಾಡುವ ದಾಳಿ",
+      "ಲಕ್ಷಾಂತರ ಜನರಿಗೆ ಕಳುಹಿಸುವ ಸಾಮಾನ್ಯ ಸ್ಪ್ಯಾಮ್"
+    ],
+    "correct_index": 1,
+    "explanation_en": "Unlike generic mass phishing, Spear Phishing is customized with the victim's actual job title, colleagues' names, or recent transactions to maximize deception.",
+    "explanation_kn": "ಸ್ಪಿಯರ್ ಫಿಶಿಂಗ್ ನಿರ್ದಿಷ್ಟ ವ್ಯಕ್ತಿಯ ಹೆಸರು, ಹುದ್ದೆ ಮತ್ತು ಕಚೇರಿಯ ವಿವರಗಳನ್ನು ಮೊದಲೇ ತಿಳಿದುಕೊಂಡು ಅತ್ಯಂತ ನಿಖರವಾಗಿ ನಡೆಸುವ ಅಪಾಯಕಾರಿ ದಾಳಿಯಾಗಿದೆ."
+  },
+  {
+    "id": "q23",
+    "difficulty": "hard",
+    "category": "student",
+    "question_en": "What is 'Digital Footprint' and how can oversharing harm young adults in the future?",
+    "question_kn": "'ಡಿಜಿಟಲ್ ಹೆಜ್ಜೆಗುರುತು' (Digital Footprint) ಎಂದರೇನು ಮತ್ತು ಅತಿಯಾಗಿ ಮಾಹಿತಿ ಹಂಚಿಕೊಳ್ಳುವುದು ಯುವಜನರಿಗೆ ಹೇಗೆ ಹಾನಿ ಮಾಡುತ್ತದೆ?",
+    "options_en": [
+      "The physical wear and tear on your smartphone keyboard",
+      "The permanent record of all your online activities, posts, and comments that employers and colleges can review",
+      "The carbon footprint created by internet servers",
+      "The storage space occupied by your downloaded games"
+    ],
+    "options_kn": [
+      "ಕೀಬೋರ್ಡ್ ಮೇಲಿನ ಬೆರಳಚ್ಚು",
+      "ನೀವು ಇಂಟರ್ನೆಟ್‌ನಲ್ಲಿ ಮಾಡುವ ಪೋಸ್ಟ್ ಮತ್ತು ಚಟುವಟಿಕೆಗಳ ಶಾಶ್ವತ ದಾಖಲೆ, ಇದನ್ನು ಭವಿಷ್ಯದಲ್ಲಿ ಉದ್ಯೋಗದಾತರು ಪರಿಶೀಲಿಸಬಹುದು",
+      "ಸರ್ವರ್‌ಗಳು ಉಂಟುಮಾಡುವ ಮಾಲಿನ್ಯ",
+      "ಗೇಮ್‌ಗಳು ಆಕ್ರಮಿಸಿಕೊಳ್ಳುವ ಸ್ಟೋರೇಜ್ ಸ್ಥಳ"
+    ],
+    "correct_index": 1,
+    "explanation_en": "Everything posted online leaves a persistent trail. Future employers, background check agencies, and universities scrutinize candidate digital footprints.",
+    "explanation_kn": "ಇಂಟರ್ನೆಟ್‌ನಲ್ಲಿ ನೀವು ಹಾಕುವ ಪ್ರತಿಯೊಂದು ಪೋಸ್ಟ್ ಶಾಶ್ವತವಾಗಿ ಉಳಿಯುತ್ತದೆ. ಭವಿಷ್ಯದಲ್ಲಿ ಉದ್ಯೋಗ ನೀಡುವ ಕಂಪನಿಗಳು ನಿಮ್ಮ ನಡವಳಿಕೆಯನ್ನು ಇದರ ಮೂಲಕವೇ ಪರಿಶೀಲಿಸುತ್ತವೆ."
+  },
+  {
+    "id": "q24",
+    "difficulty": "hard",
+    "category": "passwords",
+    "question_en": "What is a 'Man-in-the-Middle' (MitM) attack?",
+    "question_kn": "'ಮ್ಯಾನ್-ಇನ್-ದಿ-ಮಿಡಲ್' (Man-in-the-Middle - MitM) ದಾಳಿ ಎಂದರೇನು?",
+    "options_en": [
+      "A referee in an esports tournament making unfair decisions",
+      "An attack where a cybercriminal secretly intercepts and relays communications between two parties who believe they are communicating directly",
+      "A virus that splits your computer screen in two halves",
+      "When two people use the same debit card at the same time"
+    ],
+    "options_kn": [
+      "ಇ-ಸ್ಪೋರ್ಟ್ಸ್ ಪಂದ್ಯದಲ್ಲಿ ತೀರ್ಪುಗಾರರ ತಪ್ಪು ನಿರ್ಧಾರ",
+      "ಇಬ್ಬರ ನಡುವಿನ ಆನ್‌ಲೈನ್ ಸಂವಹನವನ್ನು ಅವರ ಗಮನಕ್ಕೆ ಬಾರದಂತೆ ಮಧ್ಯದಲ್ಲೇ ಹ್ಯಾಕರ್ ಕದ್ದು ನೋಡುವುದು ಅಥವಾ ತಿರುಚುವುದು",
+      "ಕಂಪ್ಯೂಟರ್ ಸ್ಕ್ರೀನ್ ಅರ್ಧ ಮಾಡುವ ವೈರಸ್",
+      "ಇಬ್ಬರು ಒಂದೇ ಕಾರ್ಡ್ ಒಟ್ಟಿಗೆ ಬಳಸುವುದು"
+    ],
+    "correct_index": 1,
+    "explanation_en": "In a MitM attack, the perpetrator positions themselves between user and server (often via rogue Wi-Fi or DNS spoofing) to capture sensitive passwords and session tokens.",
+    "explanation_kn": "ಬಳಕೆದಾರ ಮತ್ತು ವೆಬ್‌ಸೈಟ್ ನಡುವಿನ ಸಂವಹನದ ಮಧ್ಯೆ ಹ್ಯಾಕರ್ ಪ್ರವೇಶಿಸಿ ರಹಸ್ಯ ಪಾಸ್‌ವರ್ಡ್ ಮತ್ತು ಡೇಟಾವನ್ನು ಕದಿಯುವುದನ್ನು MitM ದಾಳಿ ಎನ್ನುತ್ತಾರೆ."
+  },
+  {
+    "id": "q25",
+    "difficulty": "hard",
+    "category": "identity",
+    "question_en": "What feature of the mAadhaar app should every citizen enable to prevent fraudulent biometric authentication?",
+    "question_kn": "ನಕಲಿ ಬಯೋಮೆಟ್ರಿಕ್ ವಂಚನೆಗಳನ್ನು ತಡೆಯಲು ಪ್ರತಿಯೊಬ್ಬ ನಾಗರಿಕನು mAadhaar ಆ್ಯಪ್‌ನಲ್ಲಿ ಯಾವ ಸೌಲಭ್ಯವನ್ನು ಆನ್ ಮಾಡಬೇಕು?",
+    "options_en": [
+      "Auto-share Aadhaar with all shopping apps",
+      "Biometric Locking (Aadhaar Lock)",
+      "High-speed Aadhaar download mode",
+      "Dark mode theme"
+    ],
+    "options_kn": [
+      "ಶಾಪಿಂಗ್ ಆ್ಯಪ್‌ಗಳಿಗೆ ಆಟೋ-ಶೇರ್ ಮಾಡುವುದು",
+      "ಬಯೋಮೆಟ್ರಿಕ್ ಲಾಕಿಂಗ್ (Aadhaar Biometric Lock)",
+      "ಹೈಸ್ಪೀಡ್ ಡೌನ್‌ಲೋಡ್ ಮೋಡ್",
+      "ಡಾರ್ಕ್ ಮೋಡ್ ಥೀಮ್"
+    ],
+    "correct_index": 1,
+    "explanation_en": "Enabling 'Biometric Lock' via UIDAI/mAadhaar locks fingerprints and iris authentication, preventing fraudsters from misusing your Aadhaar-enabled payment system (AePS).",
+    "explanation_kn": "mAadhaar ನಲ್ಲಿ ಬಯೋಮೆಟ್ರಿಕ್ ಲಾಕ್ ಮಾಡಿದರೆ ನಿಮ್ಮ ಹೆಬ್ಬೆರಳು ಅಥವಾ ಕಣ್ಣಿನ ಗುರುತನ್ನು ಯಾರೂ ದುರ್ಬಳಕೆ ಮಾಡಿಕೊಂಡು AePS ಮೂಲಕ ಹಣ ಕದಿಯಲು ಸಾಧ್ಯವಿಲ್ಲ."
+  },
+  {
+    "id": "q26",
+    "difficulty": "hard",
+    "category": "malware",
+    "question_en": "What is 'Ransomware' and what is the single best defense against it?",
+    "question_kn": "'ರ್ಯಾನ್ಸಮ್‌ವೇರ್' (Ransomware) ಎಂದರೇನು ಮತ್ತು ಅದರಿಂದ ರಕ್ಷಣೆ ಪಡೆಯಲು ಅತ್ಯುತ್ತಮ ಉಪಾಯ ಯಾವುದು?",
+    "options_en": [
+      "Malware that turns off your computer fan; best defense is an ice pack",
+      "Malware that encrypts all your personal files and demands money for the decryption key; best defense is frequent offline backups",
+      "Software that speeds up your internet; best defense is downloading more memory",
+      "An email spam filter"
+    ],
+    "options_kn": [
+      "ಫ್ಯಾನ್ ಆಫ್ ಮಾಡುವ ಮಾಲ್ವೇರ್",
+      "ನಿಮ್ಮ ಎಲ್ಲಾ ಫೈಲ್‌ಗಳನ್ನು ಲಾಕ್ ಮಾಡಿ ಹಣ ಕೇಳುವ ವೈರಸ್; ಇದಕ್ಕೆ ಅತ್ಯುತ್ತಮ ರಕ್ಷಣೆ ಆಫ್‌ಲೈನ್ ಬ್ಯಾಕಪ್ (Offline Backup) ಇಟ್ಟುಕೊಳ್ಳುವುದು",
+      "ಇಂಟರ್ನೆಟ್ ವೇಗ ಹೆಚ್ಚಿಸುವ ತಂತ್ರಾಂಶ",
+      "ಇಮೇಲ್ ಸ್ಪ್ಯಾಮ್ ಫಿಲ್ಟರ್"
+    ],
+    "correct_index": 1,
+    "explanation_en": "Ransomware holds your data hostage. Paying the ransom does not guarantee recovery. Having regular offline backups (e.g., external hard drive disconnected from the network) guarantees recovery.",
+    "explanation_kn": "ರ್ಯಾನ್ಸಮ್‌ವೇರ್ ನಿಮ್ಮ ಫೈಲ್‌ಗಳನ್ನು ಲಾಕ್ ಮಾಡಿ ಹಣಕ್ಕಾಗಿ ಪೀಡಿಸುತ್ತದೆ. ನಿಯಮಿತವಾಗಿ ಪ್ರತ್ಯೇಕ ಹಾರ್ಡ್‌ಡ್ರೈವ್‌ನಲ್ಲಿ ಆಫ್‌ಲೈನ್ ಬ್ಯಾಕಪ್ ಇಟ್ಟುಕೊಂಡರೆ ಸುರಕ್ಷಿತವಾಗಿರಬಹುದು."
+  },
+  {
+    "id": "q27",
+    "difficulty": "hard",
+    "category": "emergency",
+    "question_en": "Under RBI guidelines on unauthorized electronic banking transactions, what is the customer liability if the fraud is reported within 3 working days?",
+    "question_kn": "ಆರ್‌ಬಿಐ (RBI) ನಿಯಮಗಳ ಪ್ರಕಾರ, ಬ್ಯಾಂಕ್ ದೋಷ ಅಥವಾ ಮೂರನೇ ವ್ಯಕ್ತಿಯ ಸೈಬರ್ ವಂಚನೆಯನ್ನು 3 ದಿನಗಳೊಳಗೆ ಬ್ಯಾಂಕಿಗೆ ವರದಿ ಮಾಡಿದರೆ ಗ್ರಾಹಕರ ಹೊಣೆಗಾರಿಕೆ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "options_en": [
+      "100% loss borne by customer",
+      "Zero customer liability (full refund by bank provided customer did not share OTP/credentials)",
+      "Fixed penalty of ₹10,000",
+      "Customer must forfeit their bank account"
+    ],
+    "options_kn": [
+      "ಗ್ರಾಹಕರೇ 100% ನಷ್ಟ ಭರಿಸಬೇಕು",
+      "ಶೂನ್ಯ ಹೊಣೆಗಾರಿಕೆ (ಗ್ರಾಹಕರು OTP ಹಂಚಿಕೊಳ್ಳದಿದ್ದರೆ ಬ್ಯಾಂಕೇ ಪೂರ್ಣ ಹಣ ಮರುಪಾವತಿಸಬೇಕು)",
+      "₹10,000 ದಂಡ ಪಾವತಿಸಬೇಕು",
+      "ಖಾತೆಯನ್ನು ಶಾಶ್ವತವಾಗಿ ರದ್ದುಮಾಡಬೇಕು"
+    ],
+    "correct_index": 1,
+    "explanation_en": "According to RBI circulars, if unauthorized fraud occurs without customer negligence and is reported within 3 working days, customer liability is ZERO.",
+    "explanation_kn": "ಗ್ರಾಹಕರ ತಪ್ಪಿಲ್ಲದೆ ಅಥವಾ ಮೂರನೇ ವ್ಯಕ್ತಿಯಿಂದ ವಂಚನೆಯಾಗಿದ್ದು, ಅದನ್ನು 3 ಕೆಲಸದ ದಿನಗಳಲ್ಲಿ ಬ್ಯಾಂಕಿಗೆ ವರದಿ ಮಾಡಿದರೆ ಗ್ರಾಹಕರ ಹೊಣೆ ಶೂನ್ಯವಾಗಿರುತ್ತದೆ (Zero Liability)."
+  },
+  {
+    "id": "q28",
+    "difficulty": "hard",
+    "category": "student",
+    "question_en": "What is an 'AI Deepfake Scam' and how can families protect themselves against AI voice cloning extortion?",
+    "question_kn": "'AI ಡೀಪ್‌ಫೇಕ್ ವಂಚನೆ' (Deepfake) ಎಂದರೇನು ಮತ್ತು ಕುಟುಂಬಗಳು AI ಧ್ವನಿ ಕ್ಲೋನಿಂಗ್ ಬೆದರಿಕೆಯಿಂದ ಹೇಗೆ ರಕ್ಷಿಸಿಕೊಳ್ಳಬಹುದು?",
+    "options_en": [
+      "An automated bot playing video games on Twitch",
+      "Fraudsters cloning a child's voice using AI to fake a kidnapping/arrest and demanding ransom; families can establish a secret safe family passphrase",
+      "A filter that adds sunglasses to social media videos",
+      "A new smartphone camera sensor"
+    ],
+    "options_kn": [
+      "ವೀಡಿಯೊ ಗೇಮ್ ಆಡುವ ಆಟೋಮೇಟೆಡ್ ಬಾಟ್",
+      "ಮಕ್ಕಳ ಧ್ವನಿಯನ್ನು AI ಮೂಲಕ ನಕಲು ಮಾಡಿ ಅಪಹರಣದ ಸುಳ್ಳು ಕಥೆ ಕಟ್ಟಿ ಹಣ ವಸೂಲಿ ಮಾಡುವುದು; ಕುಟುಂಬದವರು ರಹಸ್ಯ 'ಪಾಸ್‌ವರ್ಡ್ ಪದ' ಇಟ್ಟುಕೊಳ್ಳುವ ಮೂಲಕ ರಕ್ಷಿಸಿಕೊಳ್ಳಬಹುದು",
+      "ಕನ್ನಡಕ ಹಾಕುವ ಫಿಲ್ಟರ್",
+      "ಹೊಸ ಕ್ಯಾಮೆರಾ ಸೆನ್ಸರ್"
+    ],
+    "correct_index": 1,
+    "explanation_en": "Scammers clone voices from social media clips. Agreeing on a secret, confidential 'Safe Word' inside the family allows instant verification during frantic phone emergencies.",
+    "explanation_kn": "AI ಧ್ವನಿ ಕ್ಲೋನಿಂಗ್ ಬಳಸಿ ನಕಲಿ ಕರೆಗಳನ್ನು ಮಾಡಲಾಗುತ್ತಿದೆ. ಕುಟುಂಬದ ಸದಸ್ಯರು ಕೇವಲ ತಮಗೆ ಮಾತ್ರ ಗೊತ್ತಿರುವ ರಹಸ್ಯ ಸಂಕೇತ ಪದ (Safe Word) ಇಟ್ಟುಕೊಳ್ಳುವುದು ಅತ್ಯುತ್ತಮ ಪರಿಹಾರ."
+  },
+  {
+    "id": "q29",
+    "difficulty": "hard",
+    "category": "social_media",
+    "question_en": "What is 'Sextortion' and what is the crucial advice given by cyber cells to victims?",
+    "question_kn": "'ಸೆಕ್ಸ್ಟಾರ್ಷನ್' (Sextortion) ಎಂದರೇನು ಮತ್ತು ಸಂತ್ರಸ್ತರಿಗೆ ಸೈಬರ್ ಪೊಲೀಸರು ನೀಡುವ ಮುಖ್ಯ ಸಲಹೆ ಏನು?",
+    "options_en": [
+      "A dating app subscription feature",
+      "Extortion through compromised or deepfaked intimate video clips; advice: NEVER pay ransom, preserve screenshots, block, and report immediately to 1930 / cybercrime.gov.in",
+      "A cybersecurity certification for ethical hackers",
+      "An automated privacy setting on WhatsApp"
+    ],
+    "options_kn": [
+      "ಡೇಟಿಂಗ್ ಆ್ಯಪ್ ಚಂದಾದಾರಿಕೆ",
+      "ಖಾಸಗಿ ಅಥವಾ ಮಾರ್ಫ್ ಮಾಡಿದ ವಿಡಿಯೋ ತೋರಿಸಿ ಬ್ಲ್ಯಾಕ್‌ಮೇಲ್ ಮಾಡುವುದು; ಸಲಹೆ: ಎಂದಿಗೂ ಹಣ ನೀಡಬೇಡಿ, ಸಾಕ್ಷಿ ಉಳಿಸಿಕೊಳ್ಳಿ ಮತ್ತು 1930 ಗೆ ದೂರು ನೀಡಿ",
+      "ಸರ್ಟಿಫಿಕೇಶನ್ ಕೋರ್ಸ್",
+      "ವಾಟ್ಸಾಪ್ ಪ್ರೈವೇಸಿ ಸೆಟ್ಟಿಂಗ್"
+    ],
+    "correct_index": 1,
+    "explanation_en": "Paying blackmailers only invites demands for more money. Cyber cells advise preserving chat evidence, cutting off communication, and immediately reporting.",
+    "explanation_kn": "ಬ್ಲ್ಯಾಕ್‌ಮೇಲ್ ಮಾಡುವವರಿಗೆ ಹಣ ನೀಡಿದರೆ ಅವರು ಮತ್ತಷ್ಟು ಹಣ ಕೇಳುತ್ತಾರೆ. ಎಂದಿಗೂ ಹಣ ನೀಡಬೇಡಿ, ಸಾಕ್ಷಿಗಳನ್ನು ಉಳಿಸಿಕೊಂಡು ತಕ್ಷಣ 1930 ಗೆ ದೂರು ನೀಡಿ."
+  },
+  {
+    "id": "q30",
+    "difficulty": "hard",
+    "category": "wifi",
+    "question_en": "Why should users disable 'Automatic Wi-Fi and Bluetooth connection' when in public transit or airports?",
+    "question_kn": "ವಿಮಾನ ನಿಲ್ದಾಣ ಅಥವಾ ಸಾರ್ವಜನಿಕ ಸ್ಥಳಗಳಲ್ಲಿದ್ದಾಗ ಮೊಬೈಲ್‌ನಲ್ಲಿ 'ಆಟೋ-ಕನೆಕ್ಟ್ ವೈ-ಫೈ ಮತ್ತು ಬ್ಲೂಟೂತ್' ಅನ್ನು ಏಕೆ ಆಫ್ ಮಾಡಬೇಕು?",
+    "options_en": [
+      "It prevents your smartphone from overheating in sunny weather",
+      "Rogue access points can mimic familiar network names (Evil Twin) and auto-pair to inject malicious payloads or track your location",
+      "It makes your sim card disconnect permanently",
+      "It stops incoming regular telephone calls"
+    ],
+    "options_kn": [
+      "ಫೋನ್ ಬಿಸಿಯಾಗುವುದನ್ನು ತಡೆಯುತ್ತದೆ",
+      "ವಂಚಕರು 'ಈವಿಲ್ ಟ್ವಿನ್' (Evil Twin) ನಕಲಿ ವೈ-ಫೈ ನೆಟ್‌ವರ್ಕ್ ಸೃಷ್ಟಿಸಿ ನಿಮ್ಮ ಫೋನ್ ತಾನಾಗಿಯೇ ಕನೆಕ್ಟ್ ಆಗುವಂತೆ ಮಾಡಿ ಡೇಟಾ ಕದಿಯಬಹುದು",
+      "ಸಿಮ್ ಕಾರ್ಡ್ ರದ್ದಾಗುತ್ತದೆ",
+      "ಫೋನ್ ಕರೆಗಳು ಬರುವುದಿಲ್ಲ"
+    ],
+    "correct_index": 1,
+    "explanation_en": "Evil Twin attacks broadcast familiar SSIDs (like 'Free_Airport_WiFi') to trick devices with auto-connect into silently tunneling traffic through malicious access points.",
+    "explanation_kn": "ಆಟೋ-ಕನೆಕ್ಟ್ ಆನ್ ಇದ್ದರೆ ನಿಮ್ಮ ಫೋನ್ ಸಾರ್ವಜನಿಕ ಸ್ಥಳದಲ್ಲಿರುವ ನಕಲಿ ವೈ-ಫೈ ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಕನೆಕ್ಟ್ ಆಗಿ ನಿಮ್ಮ ಮಾಹಿತಿ ಸೋರಿಕೆಯಾಗಬಹುದು."
+  }
+]

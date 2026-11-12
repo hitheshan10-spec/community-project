@@ -1,0 +1,550 @@
+[
+  {
+    "id": "phishing_scams",
+    "icon": "🎣",
+    "title_en": "Phishing & Fake Website Scams",
+    "title_kn": "ಫಿಶಿಂಗ್ ಮತ್ತು ನಕಲಿ ವೆಬ್‌ಸೈಟ್ ವಂಚನೆಗಳು",
+    "category": "scam_awareness",
+    "summary_en": "Deceptive emails, clone websites, and SMS links designed to steal your confidential passwords, debit card numbers, and login credentials.",
+    "summary_kn": "ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಪಾಸ್‌ವರ್ಡ್, ಡೆಬಿಟ್ ಕಾರ್ಡ್ ಸಂಖ್ಯೆ ಮತ್ತು ಲಾಗಿನ್ ವಿವರಗಳನ್ನು ಕದಿಯಲು ಕಳುಹಿಸಲಾಗುವ ನಕಲಿ ಇಮೇಲ್, ವೆಬ್‌ಸೈಟ್ ಮತ್ತು ಲಿಂಕ್‌ಗಳು.",
+    "what_is_it_en": "Phishing is a social engineering attack where fraudsters create identical replicas of legitimate bank portals (e.g., SBI, HDFC, ICICI), tax portals, or popular social media platforms. By enticing victims via urgent SMS or email alerts, scammers manipulate you into typing your confidential credentials directly onto their fraudulent servers.",
+    "what_is_it_kn": "ಫಿಶಿಂಗ್ ಎನ್ನುವುದು ವಂಚಕರು ನಿಜವಾದ ಬ್ಯಾಂಕ್ ವೆಬ್‌ಸೈಟ್‌ಗಳು (SBI, HDFC), ಆದಾಯ ತೆರಿಗೆ ಪೋರ್ಟಲ್ ಅಥವಾ ಸೋಷಿಯಲ್ ಮೀಡಿಯಾ ಪೋರ್ಟಲ್‌ಗಳಂತೆಯೇ ಕಾಣುವ ನಕಲಿ ವೆಬ್‌ಸೈಟ್‌ಗಳನ್ನು ಸೃಷ್ಟಿಸಿ ಜನರನ್ನು ಮೋಸ ಮಾಡುವ ತಂತ್ರವಾಗಿದೆ. ತುರ್ತು ಸಂದೇಶ ಅಥವಾ ಇಮೇಲ್ ಮೂಲಕ ಗ್ರಾಹಕರು ತಮ್ಮ ರಹಸ್ಯ ಪಾಸ್‌ವರ್ಡ್‌ಗಳನ್ನು ನಮೂದಿಸುವಂತೆ ಮಾಡುತ್ತಾರೆ.",
+    "how_it_works_en": [
+      "1. Scammer sends an SMS or email stating: 'Your bank account will be suspended within 24 hours. Click here to verify KYC immediately.'",
+      "2. The link directs the victim to a fake website like 'sbi-kyc-update-portal.xyz' that mimics the genuine netbanking login screen.",
+      "3. The victim enters their username, password, date of birth, and card CVV.",
+      "4. The scammer receives these details in real time and immediately logs in to the legitimate bank site to transfer funds, prompting the user for an OTP under the guise of 'verification'."
+    ],
+    "how_it_works_kn": [
+      "1. ವಂಚಕರು 'ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಖಾತೆ 24 ಗಂಟೆಗಳಲ್ಲಿ ರದ್ದಾಗಲಿದೆ, ತಕ್ಷಣ KYC ನವೀಕರಿಸಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ' ಎಂದು ಸಂದೇಶ ಕಳುಹಿಸುತ್ತಾರೆ.",
+      "2. ನೀಡಲಾದ ಲಿಂಕ್ ನಕಲಿ ವೆಬ್‌ಸೈಟ್‌ಗೆ ತೆರೆಯುತ್ತದೆ, ಇದು ಅಧಿಕೃತ ಬ್ಯಾಂಕ್ ಪುಟದಂತೆಯೇ ಕಾಣುತ್ತದೆ.",
+      "3. ಸಂತ್ರಸ್ತರು ತಮ್ಮ ಬಳಕೆದಾರ ಹೆಸರು, ಪಾಸ್‌ವರ್ಡ್ ಮತ್ತು ಕಾರ್ಡ್ ವಿವರಗಳನ್ನು ನಮೂದಿಸುತ್ತಾರೆ.",
+      "4. ವಂಚಕರು ತಕ್ಷಣ ಈ ವಿವರಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಹಣ ವರ್ಗಾವಣೆ ಮಾಡುತ್ತಾರೆ."
+    ],
+    "warning_signs_en": [
+      "Urgent threats of account suspension, panics, or legal penalties within 24 hours.",
+      "Suspicious URLs: look closely at domain spelling (e.g., 'onlinesb1.net' instead of 'onlinesbi.sbi').",
+      "Generic greetings like 'Dear Customer' instead of your registered name.",
+      "Requests to enter CVV, ATM PIN, or Netbanking passwords on a web form."
+    ],
+    "warning_signs_kn": [
+      "24 ಗಂಟೆಗಳ ಒಳಗೆ ಖಾತೆ ರದ್ದಾಗುತ್ತದೆ ಎಂದು ಅನಗತ್ಯ ತುರ್ತು ಮತ್ತು ಬೆದರಿಕೆ ಹಾಕುವುದು.",
+      "ಅನುಮಾನಾಸ್ಪದ ವೆಬ್ ವಿಳಾಸ (URL) - ಉದಾಹರಣೆಗೆ ಅಧಿಕೃತ 'onlinesbi.sbi' ಬದಲು 'onlinesb1.net'.",
+      "ನಿಮ್ಮ ಹೆಸರಿನ ಬದಲು 'ಆತ್ಮೀಯ ಗ್ರಾಹಕರೇ' ಎಂಬ ಸಾಮಾನ್ಯ ಸಂಬೋಧನೆ.",
+      "ವೆಬ್ ಫಾರ್ಮ್‌ನಲ್ಲಿ CVV, ATM PIN ಅಥವಾ ನೆಟ್‌ಬ್ಯಾಂಕಿಂಗ್ ಪಾಸ್‌ವರ್ಡ್ ನಮೂದಿಸಲು ಕೇಳುವುದು."
+    ],
+    "fictional_example_en": "Ramesh received an SMS: 'Dear Customer, your SBI YONO account has been blocked due to missing PAN. Update now at http://sbi-kyc-verify-2024.in'. Panicked about his salary account, Ramesh opened the link on his phone, saw the familiar blue SBI logo, and typed his username, password, and profile password. Within two minutes, ₹48,000 was debited from his account to an unknown wallet in another state.",
+    "fictional_example_kn": "ರಮೇಶ್ ಅವರಿಗೆ 'ನಿಮ್ಮ SBI ಖಾತೆ KYC ಬಾಕಿ ಇರುವುದರಿಂದ ಬ್ಲಾಕ್ ಆಗಿದೆ, ತಕ್ಷಣ http://sbi-kyc-verify-2024.in ನಲ್ಲಿ ಅಪ್‌ಡೇಟ್ ಮಾಡಿ' ಎಂದು SMS ಬಂದಿತು. ಭಯಭೀತರಾದ ರಮೇಶ್ ಆ ಲಿಂಕ್ ಕ್ಲಿಕ್ ಮಾಡಿ, ತಮ್ಮ ಯೂಸರ್‌ನೇಮ್ ಮತ್ತು ಪಾಸ್‌ವರ್ಡ್ ನಮೂದಿಸಿದರು. ಎರಡು ನಿಮಿಷಗಳಲ್ಲಿ ಅವರ ಖಾತೆಯಿಂದ ₹48,000 ಹಣ ಕಡಿತವಾಯಿತು.",
+    "prevention_methods_en": [
+      "Never click on links received via SMS, WhatsApp, or unsolicited emails regarding KYC or account status.",
+      "Always type the bank's official URL directly into your browser bookmark or mobile application.",
+      "Check for the secure HTTPS lock icon and verify the exact domain name suffix (.gov.in, .bank, or official bank domain).",
+      "Banks NEVER send SMS links requesting passwords or KYC updates."
+    ],
+    "prevention_methods_kn": [
+      "KYC ಅಥವಾ ಖಾತೆ ನವೀಕರಣಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಯಾವುದೇ SMS ಅಥವಾ ವಾಟ್ಸಾಪ್ ಲಿಂಕ್‌ಗಳನ್ನು ಎಂದಿಗೂ ಕ್ಲಿಕ್ ಮಾಡಬೇಡಿ.",
+      "ಯಾವಾಗಲೂ ಬ್ಯಾಂಕಿನ ಅಧಿಕೃತ ಆ್ಯಪ್ ಅಥವಾ ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್‌ಗೆ ನೇರವಾಗಿ ಭೇಟಿ ನೀಡಿ.",
+      "ಬ್ಯಾಂಕ್‌ಗಳು ಎಂದಿಗೂ ಪಾಸ್‌ವರ್ಡ್ ಅಥವಾ ಲಿಂಕ್ ಕಳುಹಿಸಿ KYC ಮಾಡಲು ಕೇಳುವುದಿಲ್ಲ."
+    ]
+  },
+  {
+    "id": "otp_fraud",
+    "icon": "🔢",
+    "title_en": "OTP & Verification Code Fraud",
+    "title_kn": "OTP ಮತ್ತು ಪರಿಶೀಲನಾ ಕೋಡ್ ವಂಚನೆ",
+    "category": "scam_awareness",
+    "summary_en": "Fraudsters pose as bank officers, courier delivery agents, or customer service agents to trick you into reading out your One-Time Password.",
+    "summary_kn": "ಬ್ಯಾಂಕ್ ಅಧಿಕಾರಿಗಳು ಅಥವಾ ಕೊರಿಯರ್ ಡೆಲಿವರಿ ಸಿಬ್ಬಂದಿಯಂತೆ ನಟಿಸಿ ಒನ್-ಟೈಮ್ ಪಾಸ್‌ವರ್ಡ್ (OTP) ಕದಿಯುವ ವಂಚನೆ.",
+    "what_is_it_en": "One-Time Password (OTP) fraud is one of the most common cyber crimes in India. Criminals initiate transactions or account takeovers using your leaked credentials, but require the 6-digit SMS OTP to bypass two-factor authentication. They call you with elaborate pretexts to trick you into speaking the code aloud.",
+    "what_is_it_kn": "OTP ವಂಚನೆಯು ಅತ್ಯಂತ ಅಪಾಯಕಾರಿ ಸೈಬರ್ ಅಪರಾಧವಾಗಿದೆ. ವಂಚಕರು ನಿಮ್ಮ ಖಾತೆಯಿಂದ ಹಣ ವರ್ಗಾಯಿಸಲು ಅಥವಾ ಸಿಮ್ ಸ್ವ್ಯಾಪ್ ಮಾಡಲು ಬ್ಯಾಂಕ್ ಕಳುಹಿಸುವ 6-ಅಂಕಿಯ OTP ಕೋಡ್ ಅನ್ನು ನಿಮ್ಮಿಂದಲೇ ಬಾಯಿಬಿಡಿಸುತ್ತಾರೆ.",
+    "how_it_works_en": [
+      "1. Fraudster gains partial info (phone number, card number from a data breach).",
+      "2. Fraudster attempts an online purchase or fund transfer, triggering an OTP to your phone.",
+      "3. Fraudster immediately calls you: 'Sir, I am calling from Delhivery courier. A parcel is arriving, please share the cancellation OTP if you did not order it.'",
+      "4. The victim reads out the SMS OTP without reading the text inside the SMS which says 'OTP for fund transfer of ₹25,000 to merchant...'."
+    ],
+    "how_it_works_kn": [
+      "1. ವಂಚಕರು ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಂಖ್ಯೆಯನ್ನು ಬಳಸಿಕೊಂಡು ಆನ್‌ಲೈನ್ ಶಾಪಿಂಗ್ ಅಥವಾ ಹಣ ವರ್ಗಾವಣೆ ಪ್ರಾರಂಭಿಸುತ್ತಾರೆ.",
+      "2. ನಿಮ್ಮ ಮೊಬೈಲ್‌ಗೆ ಬ್ಯಾಂಕ್‌ನಿಂದ OTP ಬರುತ್ತದೆ.",
+      "3. ತಕ್ಷಣ ವಂಚಕ ಕರೆ ಮಾಡಿ, 'ಸರ್, ಕೊರಿಯರ್ ಕ್ಯಾನ್ಸಲ್ ಮಾಡಲು ಬಂದಿರುವ OTP ತಿಳಿಸಿ' ಎಂದು ಗಡಿಬಿಡಿ ಮಾಡುತ್ತಾನೆ.",
+      "4. ಸಂದೇಶವನ್ನು ಸರಿಯಾಗಿ ಓದದ ಸಂತ್ರಸ್ತರು OTP ಹೇಳಿದ ತಕ್ಷಣ ಖಾತೆಯಿಂದ ಹಣ ಕಡಿತವಾಗುತ್ತದೆ."
+    ],
+    "warning_signs_en": [
+      "Anyone asking you to read out a code received on your phone.",
+      "Callers creating immense urgency ('Confirm now or order will be auto-charged').",
+      "The SMS text explicitly states 'DO NOT SHARE WITH ANYONE' or mentions a transaction amount you didn't initiate."
+    ],
+    "warning_signs_kn": [
+      "ಫೋನ್‌ನಲ್ಲಿ ಬಂದ ಕೋಡ್ ಅನ್ನು ಓದಿ ಹೇಳಲು ಯಾರಾದರೂ ಒತ್ತಾಯಿಸುವುದು.",
+      "ತಕ್ಷಣ ಹೇಳದಿದ್ದರೆ ದಂಡ ಬೀಳುತ್ತದೆ ಎಂದು ಹೆದರಿಸುವುದು.",
+      "SMS ನಲ್ಲೇ 'ಯಾರೊಂದಿಗೂ ಹಂಚಿಕೊಳ್ಳಬೇಡಿ' (DO NOT SHARE) ಎಂದು ಸ್ಪಷ್ಟವಾಗಿ ಬರೆದಿರುವುದು."
+    ],
+    "fictional_example_en": "Sunita received a phone call from someone claiming to be a customer executive from Amazon. The caller stated that an iPhone worth ₹75,000 was mistakenly ordered on her account. To cancel the order immediately and protect her bank, she had to verify a 6-digit cancellation code. Flustered, Sunita gave the OTP that popped up on her phone. It was actually the OTP for a netbanking transfer of ₹50,000.",
+    "fictional_example_kn": "ಸುನೀತಾ ಅವರಿಗೆ ಅಮೆಜಾನ್ ಹೆಸರಿನಲ್ಲಿ ಕರೆ ಬಂದಿತು. ಯಾರೋ ನಿಮ್ಮ ಖಾತೆಯಿಂದ ₹75,000 ಫೋನ್ ಆರ್ಡರ್ ಮಾಡಿದ್ದಾರೆ, ಅದನ್ನು ರದ್ದುಗೊಳಿಸಲು ಮೊಬೈಲ್‌ಗೆ ಬಂದ OTP ತಿಳಿಸಿ ಎಂದರು. ಗಾಬರಿಯಲ್ಲಿ ಸುನೀತಾ OTP ತಿಳಿಸಿದರು, ವಾಸ್ತವದಲ್ಲಿ ಅದು ಅವರ ಖಾತೆಯಿಂದ ₹50,000 ಹಣ ಡ್ರಾ ಮಾಡುವ ಕೋಡ್ ಆಗಿತ್ತು.",
+    "prevention_methods_en": [
+      "RULE OF THUMB: NEVER, UNDER ANY CIRCUMSTANCE, SHARE AN OTP WITH ANYONE ON A PHONE CALL OR MESSAGE.",
+      "Always read the full content of the SMS containing the OTP, especially the purpose and transaction amount.",
+      "Bank employees, RBI officers, and police NEVER ask for OTPs."
+    ],
+    "prevention_methods_kn": [
+      "ಸುವರ್ಣ ನಿಯಮ: ಫೋನ್ ಕರೆಯಲ್ಲಿ ಅಥವಾ ಸಂದೇಶದಲ್ಲಿ ಯಾರೊಂದಿಗೂ OTP ಹಂಚಿಕೊಳ್ಳಬೇಡಿ.",
+      "OTP ಸಂದೇಶದಲ್ಲಿ ಎಷ್ಟು ಹಣ ಕಡಿತವಾಗುತ್ತಿದೆ ಮತ್ತು ಯಾವ ಉದ್ದೇಶಕ್ಕೆ ಎಂಬ ವಿವರವನ್ನು ಪೂರ್ತಿಯಾಗಿ ಓದಿ.",
+      "ಬ್ಯಾಂಕ್ ಅಥವಾ ಪೊಲೀಸ್ ಅಧಿಕಾರಿಗಳು ಎಂದಿಗೂ OTP ಕೇಳುವುದಿಲ್ಲ."
+    ]
+  },
+  {
+    "id": "upi_fraud",
+    "icon": "💳",
+    "title_en": "UPI Collect Request & PIN Scams",
+    "title_kn": "ಯುಪಿಐ ಕಲೆಕ್ಟ್ ರಿಕ್ವೆಸ್ಟ್ ಮತ್ತು ಪಿನ್ ವಂಚನೆ",
+    "category": "scam_awareness",
+    "summary_en": "Fraudsters exploit the lack of UPI understanding by claiming you must enter your UPI PIN to 'receive' cashback, refunds, or payment.",
+    "summary_kn": "ಹಣ ಪಡೆಯಲು ಯುಪಿಐ ಪಿನ್ (UPI PIN) ಹಾಕಬೇಕೆಂದು ಸುಳ್ಳು ಹೇಳಿ ಹಣ ಲಪಟಾಯಿಸುವ ವಂಚನೆ.",
+    "what_is_it_en": "A widespread cyber scam across PhonePe, Google Pay, and Paytm. Criminals send a 'Collect Request' or request you to enter your secret 4 or 6 digit UPI PIN under the falsehood that entering the PIN is required to deposit money into your account.",
+    "what_is_it_kn": "PhonePe, Google Pay ಅಥವಾ Paytm ಮೂಲಕ ನಡೆಯುವ ವಂಚನೆ. ನಿಮ್ಮ ಖಾತೆಗೆ ಕ್ಯಾಶ್‌ಬ್ಯಾಕ್ ಅಥವಾ ರಿಫಂಡ್ ಜಮೆಯಾಗಲು ನಿಮ್ಮ 4 ಅಥವಾ 6 ಅಂಕಿಯ ಯುಪಿಐ ಪಿನ್ ನಮೂದಿಸಬೇಕು ಎಂದು ವಂಚಕರು ಸುಳ್ಳು ಹೇಳುತ್ತಾರೆ.",
+    "how_it_works_en": [
+      "1. You list a sofa or bike for sale on OLX or Quikr for ₹15,000.",
+      "2. The scammer agrees to buy immediately without negotiation and says: 'I am an Army officer, sending money via Google Pay.'",
+      "3. Instead of sending money, the scammer initiates a 'Request Money' (Collect) notification for ₹15,000 to your UPI app.",
+      "4. The scammer tells you: 'Open PhonePe and type your PIN, the money will credit to your account.'",
+      "5. Once you enter your PIN, ₹15,000 is DEDUCTED from your account."
+    ],
+    "how_it_works_kn": [
+      "1. ನೀವು OLX ನಲ್ಲಿ ಹಳೆಯ ವಸ್ತು ಮಾರಾಟಕ್ಕೆ ಹಾಕಿದಾಗ ವಂಚಕ ತಕ್ಷಣ ಖರೀದಿಸಲು ಒಪ್ಪುತ್ತಾನೆ.",
+      "2. 'ನಾನು ಗೂಗಲ್ ಪೇ ಮೂಲಕ ಹಣ ಕಳುಹಿಸುತ್ತಿದ್ದೇನೆ' ಎಂದು ಹೇಳಿ ಹಣ ಕಳುಹಿಸುವ ಬದಲು 'Collect Request' ಕಳುಹಿಸುತ್ತಾನೆ.",
+      "3. 'ಆ್ಯಪ್ ತೆರೆದು ನಿಮ್ಮ ಪಿನ್ ನಮೂದಿಸಿದರೆ ಹಣ ಜಮೆಯಾಗುತ್ತದೆ' ಎಂದು ನಂಬಿಸುತ್ತಾನೆ.",
+      "4. ನೀವು ಪಿನ್ ನಮೂದಿಸಿದ ತಕ್ಷಣ ನಿಮ್ಮ ಖಾತೆಯಿಂದಲೇ ಹಣ ಕಡಿತವಾಗುತ್ತದೆ."
+    ],
+    "warning_signs_en": [
+      "The buyer demands you enter your UPI PIN to receive money.",
+      "You receive a notification saying 'Paying ₹X to ...' with a 'Pay' button instead of a credit alert.",
+      "The caller insists on staying on the phone while you open your payment app."
+    ],
+    "warning_signs_kn": [
+      "ಹಣ ಪಡೆಯಲು ನಿಮ್ಮ ಯುಪಿಐ ಪಿನ್ ನಮೂದಿಸಲು ಒತ್ತಾಯಿಸುವುದು.",
+      "ಹಣ ಜಮೆಯಾಗುವ ಬದಲು 'Pay' ಅಥವಾ 'Request' ಬಟನ್ ಕಾಣಿಸುವುದು.",
+      "ಫೋನ್ ಕರೆಯಲ್ಲಿರುವಾಗಲೇ ಪೇಮೆಂಟ್ ಆ್ಯಪ್ ತೆರೆಯಲು ಪಟ್ಟುಹಿಡಿಯುವುದು."
+    ],
+    "fictional_example_en": "Anand put his old laptop on an online classifieds site. A buyer claiming to be from the CRPF said he wanted to pay an advance of ₹10,000 immediately via PhonePe. Anand got a prompt on PhonePe: 'Request from CRPF Stores for ₹10,000'. The buyer said, 'Enter your 6-digit PIN to accept the grant.' Anand entered his PIN, and ₹10,000 was debited instantly. When Anand protested, the scammer blocked his number.",
+    "fictional_example_kn": "ಆನಂದ್ ತಮ್ಮ ಲ್ಯಾಪ್‌ಟಾಪ್ ಮಾರಾಟಕ್ಕೆ ಹಾಕಿದಾಗ ಖರೀದಿದಾರನೊಬ್ಬ ಮುಂಗಡ ಹಣ ನೀಡುವುದಾಗಿ ಹೇಳಿ ₹10,000 ಕಲೆಕ್ಟ್ ರಿಕ್ವೆಸ್ಟ್ ಕಳುಹಿಸಿದನು. ಪಿನ್ ಹಾಕಿದರೆ ಹಣ ಜಮೆಯಾಗುತ್ತದೆ ಎಂದು ನಂಬಿಸಿ, ಆನಂದ್ ಅವರ ಖಾತೆಯಿಂದಲೇ ₹10,000 ಕಡಿತ ಮಾಡಿಕೊಂಡನು.",
+    "prevention_methods_en": [
+      "THE GOLDEN RULE OF UPI: YOU NEVER ENTER YOUR UPI PIN TO RECEIVE MONEY. PIN IS ONLY FOR SENDING MONEY.",
+      "To receive money, you only need to provide your UPI ID or mobile number. No button click or PIN entry is required.",
+      "Reject and report any suspicious Collect Requests directly within your UPI app."
+    ],
+    "prevention_methods_kn": [
+      "ಯುಪಿಐ ಸುವರ್ಣ ನಿಯಮ: ಹಣ ಪಡೆಯಲು ಯುಪಿಐ ಪಿನ್ ಅಗತ್ಯವೇ ಇಲ್ಲ. ಹಣ ಕಳುಹಿಸುವಾಗ ಮಾತ್ರ ಪಿನ್ ಬೇಕು.",
+      "ಹಣ ಪಡೆಯಲು ಕೇವಲ ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಂಖ್ಯೆ ಅಥವಾ ಯುಪಿಐ ಐಡಿ ನೀಡಿದರೆ ಸಾಕು.",
+      "ಅನುಮಾನಾಸ್ಪದ ಕಲೆಕ್ಟ್ ರಿಕ್ವೆಸ್ಟ್‌ಗಳನ್ನು ತಕ್ಷಣ ರಿಜೆಕ್ಟ್ ಮಾಡಿ ರಿಪೋರ್ಟ್ ಮಾಡಿ."
+    ]
+  },
+  {
+    "id": "fake_job_offers",
+    "icon": "💼",
+    "title_en": "Fake Work-From-Home & Job Scams",
+    "title_kn": "ನಕಲಿ ವರ್ಕ್-ಫ್ರಮ್-ಹೋಮ್ ಮತ್ತು ಉದ್ಯೋಗ ವಂಚನೆ",
+    "category": "scam_awareness",
+    "summary_en": "Promises of earning ₹3,000 to ₹10,000 daily by simply liking YouTube videos, rating Google hotels, or doing part-time data entry.",
+    "summary_kn": "ಯೂಟ್ಯೂಬ್ ಲೈಕ್ ಮಾಡಿ, ಹೋಟೆಲ್ ರೇಟಿಂಗ್ ನೀಡಿ ದಿನಕ್ಕೆ ₹3000-₹10000 ಗಳಿಸಿ ಎಂದು ನಂಬಿಸಿ ಹಣ ಕದಿಯುವ ತಂತ್ರ.",
+    "what_is_it_en": "Criminal syndicates operate massive Telegram and WhatsApp networks targeting college students and job seekers. They offer ridiculously simple tasks like liking videos or subscribing to channels, initially pay a tiny legitimate commission (₹150 to ₹500) to build false trust, then demand thousands of rupees as 'prepaid investment tasks' before freezing all funds.",
+    "what_is_it_kn": "ಟೆಲಿಗ್ರಾಂ ಮತ್ತು ವಾಟ್ಸಾಪ್ ಮೂಲಕ ನಿರುದ್ಯೋಗಿಗಳು ಮತ್ತು ವಿದ್ಯಾರ್ಥಿಗಳನ್ನು ಗುರಿಯಾಗಿಸಿ ಮಾಡುವ ವಂಚನೆ. ಯೂಟ್ಯೂಬ್ ಲೈಕ್ ಅಥವಾ ಹೋಟೆಲ್ ರಿವ್ಯೂ ಮಾಡಿ ಎಂದು ಹೇಳಿ ಆರಂಭದಲ್ಲಿ ₹200 ನೀಡಿ ನಂಬಿಕೆ ಗಳಿಸುತ್ತಾರೆ, ನಂತರ ಹೂಡಿಕೆ ನೆಪದಲ್ಲಿ ಲಕ್ಷಾಂತರ ರೂಪಾಯಿ ಲಪಟಾಯಿಸುತ್ತಾರೆ.",
+    "how_it_works_en": [
+      "1. You receive a WhatsApp message from an international number: 'Hi, I am HR from Global Marketing. Earn ₹5,000 daily part time from home.'",
+      "2. You are added to a Telegram group and asked to like 3 YouTube videos and send screenshots.",
+      "3. The scammer actually credits ₹200 to your bank account via UPI to make the job appear 100% genuine.",
+      "4. Then they introduce 'VIP Paid Tasks': 'Deposit ₹5,000 and get ₹7,500 in 15 minutes'.",
+      "5. Once you deposit larger sums (₹50,000 to ₹5,00,000), they claim a 'system error' and demand more money to withdraw your funds, until you are bankrupt."
+    ],
+    "how_it_works_kn": [
+      "1. ವಾಟ್ಸಾಪ್‌ಗೆ ಅಂತರರಾಷ್ಟ್ರೀಯ ಸಂಖ್ಯೆಯಿಂದ 'ಮನೆಯಲ್ಲೇ ಕುಳಿತು ದಿನಕ್ಕೆ ₹5,000 ಗಳಿಸಿ' ಎಂದು ಸಂದೇಶ ಬರುತ್ತದೆ.",
+      "2. ಯೂಟ್ಯೂಬ್ ವಿಡಿಯೋ ಲೈಕ್ ಮಾಡಿದ ಸ್ಕ್ರೀನ್‌ಶಾಟ್ ಕಳುಹಿಸಲು ಹೇಳಿ ನಿಮ್ಮ ಖಾತೆಗೆ ₹200 ಜಮೆ ಮಾಡುತ್ತಾರೆ.",
+      "3. ನಂತರ 'VIP ಹೂಡಿಕೆ ಟಾಸ್ಕ್': ₹5,000 ಹೂಡಿಕೆ ಮಾಡಿದರೆ ₹8,000 ಲಾಭ ಸಿಗುತ್ತದೆ ಎಂದು ನಂಬಿಸುತ್ತಾರೆ.",
+      "4. ನೀವು ಹೆಚ್ಚಿನ ಹಣ (₹50,000+) ಹಾಕಿದ ತಕ್ಷಣ ವಿತ್‌ಡ್ರಾ ಮಾಡಲು ಇನ್ನಷ್ಟು ಹಣ ಹಾಕಿ ಎಂದು ಬ್ಲಾಕ್ ಮಾಡುತ್ತಾರೆ."
+    ],
+    "warning_signs_en": [
+      "Unsolicited job offers sent via WhatsApp or Telegram.",
+      "Excessive earnings for unskilled, effortless tasks (e.g., ₹5,000 for 1 hour of video liking).",
+      "Requirement to pay registration fees, security deposits, or cryptocurrency to 'unlock' earnings."
+    ],
+    "warning_signs_kn": [
+      "ವಾಟ್ಸಾಪ್ ಅಥವಾ ಟೆಲಿಗ್ರಾಂ ಮೂಲಕ ಬರುವ ಅನಿರೀಕ್ಷಿತ ಉದ್ಯೋಗ ಆಫರ್‌ಗಳು.",
+      "ಯಾವುದೇ ಕೌಶಲ್ಯವಿಲ್ಲದೆ ದಿನಕ್ಕೆ ಸಾವಿರಾರು ರೂಪಾಯಿ ಗಳಿಸುವ ಆಮಿಷ.",
+      "ಗಳಿಸಿದ ಹಣವನ್ನು ಪಡೆಯಲು ಮುಂಗಡ ಠೇವಣಿ ಅಥವಾ ಶುಲ್ಕ ಕೇಳುವುದು."
+    ],
+    "fictional_example_en": "Pooja, a college graduate looking for work, joined a Telegram channel called 'Digital Media Task Force'. She completed 3 like tasks and received ₹450 in Google Pay. Convinced it was legitimate, she opted for the Gold Task tier, transferring ₹25,000 of her tuition fee with the promise of receiving ₹35,000. When she tried to withdraw, the administrator told her to pay ₹40,000 in 'processing tax'. She realized she had lost all her savings.",
+    "fictional_example_kn": "ಪೂಜಾ ಎಂಬ ಕಾಲೇಜು ವಿದ್ಯಾರ್ಥಿನಿ ಯೂಟ್ಯೂಬ್ ಲೈಕ್ ಟಾಸ್ಕ್ ಮಾಡಿ ₹400 ಪಡೆದಳು. ಇದು ನೈಜವೆಂದು ನಂಬಿ ತನ್ನ ಶುಲ್ಕದ ₹25,000 ಹಣವನ್ನು ಹೂಡಿಕೆ ಮಾಡಿದಳು. ನಂತರ ಹಣ ವಾಪಸ್ ಪಡೆಯಲು ಇನ್ನಷ್ಟು ಶುಲ್ಕ ಪಾವತಿಸಿ ಎಂದು ಗ್ರೂಪ್‌ನಿಂದ ಹೊರಹಾಕಿದರು.",
+    "prevention_methods_en": [
+      "No legitimate global corporation recruits through WhatsApp or directs applicants to anonymous Telegram groups.",
+      "Never pay money to get a job or unlock task earnings.",
+      "Immediately report and block numbers offering part-time liking or rating jobs."
+    ],
+    "prevention_methods_kn": [
+      "ಯಾವುದೇ ಪ್ರತಿಷ್ಠಿತ ಕಂಪನಿ ವಾಟ್ಸಾಪ್ ಅಥವಾ ಟೆಲಿಗ್ರಾಂ ಮೂಲಕ ಉದ್ಯೋಗ ನೀಡುವುದಿಲ್ಲ.",
+      "ಕೆಲಸ ಪಡೆಯಲು ಅಥವಾ ಹಣ ಬಿಡುಗಡೆ ಮಾಡಲು ಹಣ ಪಾವತಿಸಬೇಡಿ.",
+      "ಅಂತಹ ನಂಬರ್ ಕಂಡರೆ ತಕ್ಷಣ ಬ್ಲಾಕ್ ಮಾಡಿ 1930 ಗೆ ದೂರು ನೀಡಿ."
+    ]
+  },
+  {
+    "id": "lottery_scams",
+    "icon": "🎉",
+    "title_en": "Lottery & Lucky Draw Scams",
+    "title_kn": "ಲಾಟರಿ ಮತ್ತು ಲಕ್ಕಿ ಡ್ರಾ ವಂಚನೆ",
+    "category": "scam_awareness",
+    "summary_en": "Congratulatory messages stating you won ₹25 Lakh in a Kaun Banega Crorepati (KBC) or car lucky draw, requiring 'advance tax' to claim.",
+    "summary_kn": "ನೀವು KBC ಯಲ್ಲಿ ₹25 ಲಕ್ಷ ಅಥವಾ ಕಾರು ಗೆದ್ದಿದ್ದೀರಿ ಎಂದು ಸುಳ್ಳು ಸಂದೇಶ ಕಳುಹಿಸಿ ಶುಲ್ಕ ಕೇಳುವ ಮೋಸ.",
+    "what_is_it_en": "Victims receive official-looking certificates or audio notes using logos of KBC, Sony TV, or major car manufacturers, declaring their phone number was chosen in a lucky draw. Victims are told to transfer 'government processing fees' or 'GST' to claim the multi-lakh prize.",
+    "what_is_it_kn": "ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಂಖ್ಯೆಗೆ ಕೋಟ್ಯಂತರ ರೂಪಾಯಿ ಲಾಟರಿ ಅಥವಾ ಐಷಾರಾಮಿ ಕಾರು ಬಂದಿದೆ ಎಂದು KBC ಲೋಗೋ ಇರುವ ನಕಲಿ ಪತ್ರ ಕಳುಹಿಸುತ್ತಾರೆ. ಹಣ ನಿಮ್ಮ ಖಾತೆಗೆ ಬರಲು ತೆರಿಗೆ ಮತ್ತು ಜಿಎಸ್‌ಟಿ ಪಾವತಿಸಿ ಎಂದು ಹಣ ಕಸಿದುಕೊಳ್ಳುತ್ತಾರೆ.",
+    "how_it_works_en": [
+      "1. You receive a WhatsApp voice note from a foreign number (+92, etc.) with the KBC fanfare music.",
+      "2. The message claims: 'Congratulations! Your SIM number won the 25 Lakh All India SIM Card Lucky Draw.'",
+      "3. You are told to contact a specific 'Bank Manager' on WhatsApp to claim the prize.",
+      "4. The manager asks you to deposit ₹15,000 for government registration, followed by ₹35,000 for RBI clearance, until you realize there is no prize."
+    ],
+    "how_it_works_kn": [
+      "1. ವಾಟ್ಸಾಪ್‌ನಲ್ಲಿ ವಿದೇಶಿ ಸಂಖ್ಯೆಯಿಂದ KBC ಸಂಗೀತವಿರುವ ಆಡಿಯೋ ಸಂದೇಶ ಬರುತ್ತದೆ.",
+      "2. 'ಅಖಿಲ ಭಾರತ ಸಿಮ್ ಲಕ್ಕಿ ಡ್ರಾದಲ್ಲಿ ನೀವು 25 ಲಕ್ಷ ಗೆದ್ದಿದ್ದೀರಿ' ಎಂದು ಹೇಳುತ್ತಾರೆ.",
+      "3. ಬಹುಮಾನ ಪಡೆಯಲು ಬ್ಯಾಂಕ್ ಮ್ಯಾನೇಜರ್ ನಂಬರ್‌ಗೆ ಕರೆ ಮಾಡಲು ಹೇಳುತ್ತಾರೆ.",
+      "4. ಜಿಎಸ್‌ಟಿ ಮತ್ತು ಪ್ರೊಸೆಸಿಂಗ್ ಶುಲ್ಕದ ನೆಪದಲ್ಲಿ ಹಂತ ಹಂತವಾಗಿ ಹಣ ಪಡೆದು ನಾಪತ್ತೆಯಾಗುತ್ತಾರೆ."
+    ],
+    "warning_signs_en": [
+      "You won a contest, lottery, or draw that you never purchased a ticket for or entered.",
+      "You are asked to pay money up front in order to receive prize money.",
+      "Communication conducted entirely over WhatsApp or unofficial Gmail accounts."
+    ],
+    "warning_signs_kn": [
+      "ನೀವು ಭಾಗವಹಿಸದ ಸ್ಪರ್ಧೆ ಅಥವಾ ಖರೀದಿಸದ ಲಾಟರಿಯಲ್ಲಿ ಬಹುಮಾನ ಬಂದಿದೆ ಎಂದು ಹೇಳುವುದು.",
+      "ಬಹುಮಾನ ಪಡೆಯಲು ಮುಂಗಡವಾಗಿ ಹಣ ಕಟ್ಟಲು ಕೇಳುವುದು.",
+      "ಕೇವಲ ವಾಟ್ಸಾಪ್ ಮೂಲಕವೇ ಸಂವಹನ ನಡೆಸುವುದು."
+    ],
+    "fictional_example_en": "Basavaraj received a WhatsApp audio clip accompanied by a photograph of Amitabh Bachchan and an official-looking certificate claiming his Jio SIM had won ₹25,00,000. Excitement took over, and he called the number. He was told to transfer ₹18,000 for 'Tax Deduction at Source'. Basavaraj deposited the money, but the caller kept demanding another ₹30,000 for courier delivery before switching off his phone.",
+    "fictional_example_kn": "ಬಸವರಾಜ್ ಅವರಿಗೆ ಅಮಿತಾಭ್ ಬಚ್ಚನ್ ಫೋಟೋ ಇರುವ ಪತ್ರ ವಾಟ್ಸಾಪ್‌ನಲ್ಲಿ ಬಂದಿತು. ಅದರಲ್ಲಿ ₹25 ಲಕ್ಷ ಲಾಟರಿ ಗೆದ್ದಿದ್ದೀರಿ ಎಂದಿತ್ತು. ತೆರಿಗೆ ಕಟ್ಟಲು ₹18,000 ವರ್ಗಾಯಿಸಿದ ನಂತರ, ಮತ್ತಷ್ಟು ಹಣ ಕೇಳಿ ವಂಚಕರು ಫೋನ್ ಸ್ವಿಚ್ ಆಫ್ ಮಾಡಿಕೊಂಡರು.",
+    "prevention_methods_en": [
+      "If you did not buy a ticket or enter a competition, you CANNOT win a prize.",
+      "Legitimate sweepstakes deduct taxes directly from the winnings; they never ask the winner to transfer cash first.",
+      "Never believe WhatsApp audio messages bearing corporate or television logos."
+    ],
+    "prevention_methods_kn": [
+      "ನೀವು ಟಿಕೆಟ್ ಖರೀದಿಸದಿದ್ದರೆ ಲಾಟರಿ ಗೆಲ್ಲಲು ಸಾಧ್ಯವೇ ಇಲ್ಲ.",
+      "ಯಾವುದೇ ನೈಜ ಸಂಸ್ಥೆ ಬಹುಮಾನ ನೀಡಲು ಮುಂಗಡ ಹಣ ಕೇಳುವುದಿಲ್ಲ.",
+      "ಅಂತಹ ಸಂದೇಶಗಳನ್ನು ತಕ್ಷಣ ಡಿಲೀಟ್ ಮಾಡಿ."
+    ]
+  },
+  {
+    "id": "social_media_scams",
+    "icon": "👥",
+    "title_en": "Social Media Impersonation & Friend Scams",
+    "title_kn": "ಸಾಮಾಜಿಕ ಜಾಲತಾಣಗಳ ವೇಷಧಾರಿ ವಂಚನೆಗಳು",
+    "category": "scam_awareness",
+    "summary_en": "Scammers clone your close friend's or relative's Instagram/Facebook profile and urgently request emergency funds via UPI.",
+    "summary_kn": "ನಿಮ್ಮ ಸ್ನೇಹಿತರು ಅಥವಾ ಸಂಬಂಧಿಕರ ನಕಲಿ ಖಾತೆ ಸೃಷ್ಟಿಸಿ ವೈದ್ಯಕೀಯ ತುರ್ತು ಪರಿಸ್ಥಿತಿಯ ನೆಪದಲ್ಲಿ ಹಣ ಬೇಡುವ ಮೋಸ.",
+    "what_is_it_en": "Criminals scrape public photos and friend lists from Instagram, Facebook, or LinkedIn to build an identical clone account. They then direct-message contacts with fabricated emergency stories (hospitalization, lost wallet) requesting immediate UPI transfers.",
+    "what_is_it_kn": "ಫೇಸ್‌ಬುಕ್ ಅಥವಾ ಇನ್‌ಸ್ಟಾಗ್ರಾಮ್‌ನಿಂದ ನಿಮ್ಮ ಸ್ನೇಹಿತರ ಫೋಟೋಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ ನಕಲಿ ಪ್ರೊಫೈಲ್ ರಚಿಸುತ್ತಾರೆ. ನಂತರ 'ನಾನು ಆಸ್ಪತ್ರೆಯಲ್ಲಿದ್ದೇನೆ, ತಕ್ಷಣ ₹10,000 ಗೂಗಲ್ ಪೇ ಮಾಡಿ' ಎಂದು ಸಂದೇಶ ಕಳುಹಿಸಿ ವಂಚಿಸುತ್ತಾರೆ.",
+    "how_it_works_en": [
+      "1. Scammer downloads photos and bio of your friend 'Karthik' and creates an account '@karthik_official_1'.",
+      "2. Scammer sends friend requests to everyone Karthik knows.",
+      "3. Scammer sends a direct message: 'Hey, I am stranded at an emergency clinic with a flat tyre and my UPI is failing. Can you GPay ₹8,000 to this medical shop number? I will repay you tomorrow morning.'",
+      "4. The victim sends the money without cross-checking, only to discover later the real Karthik was asleep at home."
+    ],
+    "how_it_works_kn": [
+      "1. ನಿಮ್ಮ ಸ್ನೇಹಿತನ ಫೋಟೋ ಬಳಸಿ ನಕಲಿ ಖಾತೆ ತೆರೆಯುತ್ತಾರೆ.",
+      "2. ನಿಮಗೆ ಮೆಸೇಜ್ ಮಾಡಿ 'ತುರ್ತು ಆಸ್ಪತ್ರೆ ವೆಚ್ಚಕ್ಕೆ ₹8,000 ಬೇಕು, ನಾಳೆ ಬೆಳಗ್ಗೆ ವಾಪಸ್ ಕೊಡುತ್ತೇನೆ' ಎಂದು ಕೋರುತ್ತಾರೆ.",
+      "3. ನೀವು ಪರಿಶೀಲಿಸದೆ ಹಣ ಕಳುಹಿಸಿದರೆ ಅದು ವಂಚಕರ ಕೈ ಸೇರುತ್ತದೆ."
+    ],
+    "warning_signs_en": [
+      "A friend creating a 'new profile' out of nowhere and asking for money.",
+      "Extreme urgency and reluctance to speak over a direct phone call.",
+      "The UPI receiver name does not match your friend's real name."
+    ],
+    "warning_signs_kn": [
+      "ಸ್ನೇಹಿತ ಹೊಸ ಖಾತೆಯಿಂದ ಮೆಸೇಜ್ ಮಾಡಿ ಹಣ ಕೇಳುವುದು.",
+      "ಫೋನ್ ಕರೆ ಸ್ವೀಕರಿಸಲು ಹಿಂದೇಟು ಹಾಕುವುದು.",
+      "ಹಣ ಕಳುಹಿಸುವಾಗ ಕಾಣುವ ಯುಪಿಐ ಹೆಸರು ಸ್ನೇಹಿತನ ಹೆಸರಿಗೆ ಹೊಂದಾಣಿಕೆಯಾಗದಿರುವುದು."
+    ],
+    "fictional_example_en": "Deepa got an Instagram DM from her college roommate Divya: 'Please help, my mother is admitted for an emergency scan and my card is blocked. Send ₹12,000 to this UPI ID'. Deepa hurriedly transferred the amount. An hour later, she called Divya's mobile phone to ask about her mother. Divya was shocked—her mother was perfectly healthy, and her Instagram identity had been cloned by scammers.",
+    "fictional_example_kn": "ದೀಪಾಳಿಗೆ ಆಕೆಯ ಗೆಳತಿ ದಿವ್ಯಾ ಹೆಸರಿನ ಇನ್‌ಸ್ಟಾಗ್ರಾಮ್ ಖಾತೆಯಿಂದ 'ತಾಯಿಯ ಆಸ್ಪತ್ರೆಗೆ ₹12,000 ಬೇಕು' ಎಂದು ಮೆಸೇಜ್ ಬಂದಿತು. ದೀಪಾ ಹಣ ಕಳುಹಿಸಿದಳು. ನಂತರ ಫೋನ್ ಮಾಡಿ ಕೇಳಿದಾಗ ದಿವ್ಯಾಳ ತಾಯಿ ಆರೋಗ್ಯವಾಗಿದ್ದು, ಅದು ನಕಲಿ ಖಾತೆಯಿಂದ ಬಂದ ಮೆಸೇಜ್ ಎಂದು ತಿಳಿಯಿತು.",
+    "prevention_methods_en": [
+      "ALWAYS pick up the phone and make a regular voice call to the friend's registered mobile number before transferring money.",
+      "Keep your social media friend lists and profile visibility private.",
+      "Report fake clone accounts immediately to the platform."
+    ],
+    "prevention_methods_kn": [
+      "ಹಣ ವರ್ಗಾಯಿಸುವ ಮುನ್ನ ಆ ಸ್ನೇಹಿತನಿಗೆ ನೇರವಾಗಿ ಫೋನ್ ಕರೆ ಮಾಡಿ ಮಾತನಾಡಿ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.",
+      "ನಿಮ್ಮ ಸೋಷಿಯಲ್ ಮೀಡಿಯಾ ಪ್ರೊಫೈಲ್ ಅನ್ನು ಪ್ರೈವೇಟ್ (ಖಾಸಗಿ) ಆಗಿ ಇರಿಸಿ.",
+      "ನಕಲಿ ಖಾತೆಗಳನ್ನು ತಕ್ಷಣ ರಿಪೋರ್ಟ್ ಮಾಡಿ."
+    ]
+  },
+  {
+    "id": "qr_code_scams",
+    "icon": "📱",
+    "title_en": "QR Code Payment Traps",
+    "title_kn": "ಕ್ಯೂಆರ್ ಕೋಡ್ (QR Code) ವಂಚನೆ",
+    "category": "scam_awareness",
+    "summary_en": "Fraudsters send you a QR code claiming that scanning it and entering your PIN will credit money to your bank account.",
+    "summary_kn": "ಕ್ಯೂಆರ್ ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ ಪಿನ್ ಹಾಕಿದರೆ ಹಣ ಬರುತ್ತದೆ ಎಂದು ನಂಬಿಸುವ ಮೋಸ.",
+    "what_is_it_en": "A QR (Quick Response) code in digital payments is strictly designed to PUSH payments from the scanner to the receiver. A QR code can NEVER be used to receive money or deposit funds into your bank account. Scammers exploit this technical reality against unsuspecting sellers.",
+    "what_is_it_kn": "ಡಿಜಿಟಲ್ ಪಾವತಿಯಲ್ಲಿ ಕ್ಯೂಆರ್ ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡುವುದು ಎಂದರೆ ನಿಮ್ಮ ಖಾತೆಯಿಂದ ಹಣ ಕಳುಹಿಸುವುದು ಎಂದರ್ಥ. ಕ್ಯೂಆರ್ ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡುವುದರಿಂದ ಎಂದಿಗೂ ನಿಮ್ಮ ಖಾತೆಗೆ ಹಣ ಜಮೆಯಾಗುವುದಿಲ್ಲ.",
+    "how_it_works_en": [
+      "1. You are selling furniture or an appliance online.",
+      "2. The buyer claims: 'I work for the government and cannot make normal UPI transfers. I am sending a special merchant QR code.'",
+      "3. They send an image of a QR code with the text 'Receive ₹5,000'.",
+      "4. They tell you: 'Scan this code in your GooglePay app and enter your PIN, the money will instantly reflect in your account.'",
+      "5. When scanned, it authorizes a debit of ₹5,000 from your bank account."
+    ],
+    "how_it_works_kn": [
+      "1. ನೀವು ವಸ್ತುಗಳನ್ನು ಮಾರಾಟ ಮಾಡುವಾಗ ಗ್ರಾಹಕನ ಸೋಗಿನಲ್ಲಿ ವಂಚಕ ಬರುತ್ತಾನೆ.",
+      "2. 'ನಾನು ವ್ಯಾಪಾರಿ ಕ್ಯೂಆರ್ ಕೋಡ್ ಕಳುಹಿಸುತ್ತಿದ್ದೇನೆ, ಇದನ್ನು ಸ್ಕ್ಯಾನ್ ಮಾಡಿ ಪಿನ್ ಹಾಕಿ ಹಣ ಜಮೆಯಾಗುತ್ತದೆ' ಎಂದು ಕಳುಹಿಸುತ್ತಾನೆ.",
+      "3. ನೀವು ಸ್ಕ್ಯಾನ್ ಮಾಡಿ ಪಿನ್ ಹಾಕಿದ ತಕ್ಷಣ ಹಣ ನಿಮ್ಮ ಖಾತೆಯಿಂದ ಕಡಿತವಾಗುತ್ತದೆ."
+    ],
+    "warning_signs_en": [
+      "Anyone asking you to scan a QR code to RECEIVE money.",
+      "Entering a UPI PIN after scanning a code (PIN is authorization for sending money).",
+      "The QR code image has badly edited text like 'Payee: Government Refund ₹10,000'."
+    ],
+    "warning_signs_kn": [
+      "ಹಣ ಪಡೆಯಲು ಕ್ಯೂಆರ್ ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ ಎಂದು ಹೇಳುವುದು.",
+      "ಸ್ಕ್ಯಾನ್ ಮಾಡಿದ ನಂತರ ಯುಪಿಐ ಪಿನ್ ಕೇಳುವುದು.",
+      "ಫೋಟೋದಲ್ಲಿ ತಿದ್ದಿದಂತೆ ಕಾಣುವ ಅಕ್ಷರಗಳು."
+    ],
+    "fictional_example_en": "Raghu listed his used refrigerator on OLX for ₹8,500. A buyer contacted him saying his company would pay directly. The buyer sent a WhatsApp QR code labelled 'Cashback Received'. Raghu scanned it with Google Pay, typed his UPI PIN expecting the credit, and immediately received an alert that ₹8,500 had been debited to a vendor in Kolkata.",
+    "fictional_example_kn": "ರಘು ತನ್ನ ಫ್ರಿಡ್ಜ್ ಮಾರಾಟಕ್ಕೆ ಹಾಕಿದಾಗ ಖರೀದಿದಾರ ಕ್ಯೂಆರ್ ಕೋಡ್ ಕಳುಹಿಸಿ ಸ್ಕ್ಯಾನ್ ಮಾಡಲು ಹೇಳಿದನು. ರಘು ಸ್ಕ್ಯಾನ್ ಮಾಡಿ ಪಿನ್ ಹಾಕಿದ ತಕ್ಷಣ ₹8,500 ಹಣ ಕಡಿತವಾಯಿತು.",
+    "prevention_methods_en": [
+      "REMEMBER: SCANNING A QR CODE IS EXCLUSIVELY FOR MAKING PAYMENTS, NEVER FOR RECEIVING THEM.",
+      "To receive money, you share your QR code for OTHERS to scan, you never scan theirs.",
+      "Never enter your UPI PIN on your phone after scanning an external QR code unless you intend to pay."
+    ],
+    "prevention_methods_kn": [
+      "ನೆನಪಿಡಿ: ಕ್ಯೂಆರ್ ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡುವುದು ಕೇವಲ ಹಣ ಪಾವತಿಸಲು ಮಾತ್ರ, ಪಡೆಯಲು ಅಲ್ಲ.",
+      "ಹಣ ಪಡೆಯಲು ನೀವು ನಿಮ್ಮ ಕ್ಯೂಆರ್ ಕೋಡ್ ತೋರಿಸಬೇಕು ಹೊರತು ಇತರರದ್ದನ್ನು ಸ್ಕ್ಯಾನ್ ಮಾಡಬಾರದು.",
+      "ಅಪರಿಚಿತರು ಕಳುಹಿಸಿದ ಕ್ಯೂಆರ್ ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ ಪಿನ್ ಹಾಕಬೇಡಿ."
+    ]
+  },
+  {
+    "id": "fake_customer_care",
+    "icon": "📞",
+    "title_en": "Fake Customer Care Search Scams",
+    "title_kn": "ನಕಲಿ ಕಸ್ಟಮರ್ ಕೇರ್ ಸರ್ಚ್ ವಂಚನೆ",
+    "category": "scam_awareness",
+    "summary_en": "Cybercriminals post fake toll-free and support contact numbers on Google search listings for airlines, banks, and courier companies.",
+    "summary_kn": "ಗೂಗಲ್‌ನಲ್ಲಿ ಬ್ಯಾಂಕ್, ಕೊರಿಯರ್ ಅಥವಾ ವಿಮಾನಯಾನ ಸಂಸ್ಥೆಗಳ ನಕಲಿ ಕಸ್ಟಮರ್ ಕೇರ್ ನಂಬರ್ ಹಾಕಿ ವಂಚಿಸುವ ಜಾಲ.",
+    "what_is_it_en": "When consumers encounter a problem (delayed food delivery, refund on Swiggy/Zomato, wrong courier delivery), they search Google for 'Swiggy customer care number'. Fraudsters manipulate Google search ads and Google Business listings with their personal mobile numbers. Unsuspecting callers dial these numbers believing they are speaking to company executives.",
+    "what_is_it_kn": "ಗ್ರಾಹಕರು ಏನಾದರೂ ಸಮಸ್ಯೆ ಬಂದಾಗ ಗೂಗಲ್‌ನಲ್ಲಿ ಕಸ್ಟಮರ್ ಕೇರ್ ನಂಬರ್ ಹುಡುಕುತ್ತಾರೆ. ವಂಚಕರು ನಕಲಿ ಜಾಹೀರಾತು ಹಾಕಿ ತಮ್ಮ ಮೊಬೈಲ್ ಸಂಖ್ಯೆಗಳನ್ನು ನೀಡಿರುತ್ತಾರೆ. ಕರೆ ಮಾಡಿದಾಗ ಕಂಪನಿ ಸಿಬ್ಬಂದಿಯಂತೆ ಮಾತನಾಡಿ ಬ್ಯಾಂಕ್ ಮಾಹಿತಿ ಕದಿಯುತ್ತಾರೆ.",
+    "how_it_works_en": [
+      "1. You order food or books and it is delayed, so you search Google: 'DTDC courier Bangalore helpline'.",
+      "2. The top search result or ad shows a mobile number: +91 98321XXXXX.",
+      "3. You dial the number. The person responds politely: 'Thank you for calling DTDC Support. How may I assist?'",
+      "4. To process your refund or trace the parcel, they tell you: 'Please pay a nominal ₹5 verification fee via this link so our system can refund your money.'",
+      "5. The link is a malicious phishing gateway or screen-sharing app installation link that drains your account."
+    ],
+    "how_it_works_kn": [
+      "1. ಕೊರಿಯರ್ ಅಥವಾ ಡೆಲಿವರಿ ಸಮಸ್ಯೆಗೆ ಗೂಗಲ್‌ನಲ್ಲಿ ಸಹಾಯವಾಣಿ ಹುಡುಕುತ್ತೀರಿ.",
+      "2. ಮೊದಲೇ ಕಾಣುವ ಮೊಬೈಲ್ ಸಂಖ್ಯೆಗೆ ಕರೆ ಮಾಡಿದಾಗ, ಅವರು ಅಧಿಕೃತ ಸಿಬ್ಬಂದಿಯಂತೆ ಮಾತನಾಡುತ್ತಾರೆ.",
+      "3. ₹5 ಅಥವಾ ₹10 ರಿಫಂಡ್ ವೆರಿಫಿಕೇಶನ್ ಶುಲ್ಕ ಪಾವತಿಸಲು ಲಿಂಕ್ ಕಳುಹಿಸುತ್ತಾರೆ.",
+      "4. ಆ ಲಿಂಕ್ ಮೂಲಕ ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ವಿವರ ಪಡೆದು ಸಂಪೂರ್ಣ ಹಣ ಲೂಟಿ ಮಾಡುತ್ತಾರೆ."
+    ],
+    "warning_signs_en": [
+      "A customer care number displayed as a standard 10-digit mobile number rather than an official 1800 toll-free or verified corporate landline.",
+      "The agent demands a token payment (e.g., ₹2, ₹5, ₹10) to 'register your grievance'.",
+      "The agent asks you to download screen sharing apps (AnyDesk, TeamViewer) to fix your payment issue."
+    ],
+    "warning_signs_kn": [
+      "ಟೋಲ್-ಫ್ರೀ (1800) ಸಂಖ್ಯೆಯ ಬದಲು ಸಾಮಾನ್ಯ 10 ಅಂಕಿಯ ಮೊಬೈಲ್ ಸಂಖ್ಯೆ ಇರುವುದು.",
+      "ದೂರು ಪರಿಹರಿಸಲು ₹5 ಅಥವಾ ₹10 ಪಾವತಿ ಮಾಡಲು ಕೇಳುವುದು.",
+      "AnyDesk ಅಥವಾ TeamViewer ಆ್ಯಪ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಸೂಚಿಸುವುದು."
+    ],
+    "fictional_example_en": "Praveen was waiting for a delayed parcel and searched 'BlueDart helpline' on Google. He called the number listed at the top. The 'agent' told Praveen his address was incomplete and asked him to click a link and pay ₹10 using netbanking to confirm his address. Praveen entered his bank details on the page; within minutes, ₹65,000 was debited in three transactions.",
+    "fictional_example_kn": "ಪ್ರವೀಣ್ ಬ್ಲೂಡಾರ್ಟ್ ಕೊರಿಯರ್ ನಂಬರ್ ಗೂಗಲ್‌ನಲ್ಲಿ ಹುಡುಕಿ ಕರೆ ಮಾಡಿದಾಗ, ವಿಳಾಸ ಸರಿಪಡಿಸಲು ₹10 ಪಾವತಿಸಿ ಎಂದು ಲಿಂಕ್ ಕಳುಹಿಸಿದರು. ಪ್ರವೀಣ್ ಬ್ಯಾಂಕ್ ವಿವರ ನಮೂದಿಸಿದ ತಕ್ಷಣ ಅವರ ಖಾತೆಯಿಂದ ₹65,000 ಕಡಿತವಾಯಿತು.",
+    "prevention_methods_en": [
+      "NEVER trust customer care numbers found on Google search results, Google Maps, or social media comments.",
+      "Always obtain customer service contacts ONLY from inside the company's official mobile app or verified official website.",
+      "No genuine support service asks for a payment to process a refund or register a complaint."
+    ],
+    "prevention_methods_kn": [
+      "ಗೂಗಲ್ ಸರ್ಚ್‌ನಲ್ಲಿ ಸಿಗುವ ಯಾವುದೇ ಮೊಬೈಲ್ ಸಂಖ್ಯೆಯನ್ನು ಕಸ್ಟಮರ್ ಕೇರ್ ಎಂದು ನಂಬಬೇಡಿ.",
+      "ಯಾವಾಗಲೂ ಅಧಿಕೃತ ಮೊಬೈಲ್ ಆ್ಯಪ್‌ನೊಳಗಿನ 'Help / Support' ವಿಭಾಗವನ್ನು ಮಾತ್ರ ಬಳಸಿ.",
+      "ದೂರು ದಾಖಲಿಸಲು ಯಾವುದೇ ಸಂಸ್ಥೆ ಹಣ ಕೇಳುವುದಿಲ್ಲ."
+    ]
+  },
+  {
+    "id": "online_shopping_scams",
+    "icon": "🛍️",
+    "title_en": "Fake E-Commerce & Deep Discount Stores",
+    "title_kn": "ನಕಲಿ ಆನ್‌ಲೈನ್ ಶಾಪಿಂಗ್ ಮತ್ತು ಭಾರಿ ರಿಯಾಯಿತಿ ವಂಚನೆ",
+    "category": "scam_awareness",
+    "summary_en": "Glamorous Instagram ads selling high-end gadgets, designer clothes, and shoes at 80-90% discounts on fake shopping portals.",
+    "summary_kn": "ಇನ್‌ಸ್ಟಾಗ್ರಾಮ್ ಜಾಹೀರಾತುಗಳಲ್ಲಿ ಬ್ರಾಂಡೆಡ್ ವಸ್ತುಗಳನ್ನು 80-90% ರಿಯಾಯಿತಿಯಲ್ಲಿ ನೀಡುವುದಾಗಿ ನಂಬಿಸಿ ಹಣ ಪಡೆಯುವ ನಕಲಿ ಅಂಗಡಿಗಳು.",
+    "what_is_it_en": "Cybercriminals launch short-lived e-commerce websites with copied product imagery from genuine stores. They promote these websites through sponsored Instagram and Facebook ads with tempting offers (e.g., iPhone 15 for ₹12,999 or Sony TV for ₹7,999). They only accept prepaid orders and never deliver any product.",
+    "what_is_it_kn": "ವಂಚಕರು ನಕಲಿ ಶಾಪಿಂಗ್ ವೆಬ್‌ಸೈಟ್‌ಗಳನ್ನು ಸೃಷ್ಟಿಸಿ ಇನ್‌ಸ್ಟಾಗ್ರಾಮ್ ಮತ್ತು ಫೇಸ್‌ಬುಕ್‌ನಲ್ಲಿ ಆಕರ್ಷಕ ಜಾಹೀರಾತು ನೀಡುತ್ತಾರೆ. ದುಬಾರಿ ಮೊಬೈಲ್ ಮತ್ತು ವಸ್ತುಗಳನ್ನು ಅತಿ ಕಡಿಮೆ ಬೆಲೆಗೆ ಆಫರ್ ಮಾಡಿ, ಕೇವಲ ಆನ್‌ಲೈನ್ ಪಾವತಿ ಪಡೆದು ವಸ್ತುಗಳನ್ನು ಕಳುಹಿಸದೆ ವಂಚಿಸುತ್ತಾರೆ.",
+    "how_it_works_en": [
+      "1. Scammer sets up a fake website: 'super-deals-sale.shop' offering Nike sneakers worth ₹10,000 for ₹1,299.",
+      "2. Targeted ads are run on social media targeting youth and bargain hunters.",
+      "3. During checkout, Cash on Delivery (COD) is disabled with a notice: 'COD unavailable due to festive rush, pay online for extra 10% discount'.",
+      "4. The customer pays via UPI or credit card. No order confirmation is sent, and customer care email bounces back."
+    ],
+    "how_it_works_kn": [
+      "1. ನಕಲಿ ವೆಬ್‌ಸೈಟ್ ರಚಿಸಿ ₹10,000 ಮೌಲ್ಯದ ವಸ್ತುವನ್ನು ₹1,200 ಕ್ಕೆ ಆಫರ್ ಮಾಡುತ್ತಾರೆ.",
+      "2. ಸಾಮಾಜಿಕ ಜಾಲತಾಣಗಳಲ್ಲಿ ಜಾಹೀರಾತು ಪ್ರದರ್ಶಿಸುತ್ತಾರೆ.",
+      "3. ಕ್ಯಾಶ್ ಆನ್ ಡೆಲಿವರಿ (COD) ಬದಲು ಮುಂಗಡ ಆನ್‌ಲೈನ್ ಪಾವತಿಗೆ ಮಾತ್ರ ಅವಕಾಶ ನೀಡುತ್ತಾರೆ.",
+      "4. ಹಣ ಪಾವತಿಸಿದ ನಂತರ ಯಾವುದೇ ವಸ್ತು ಬರುವುದಿಲ್ಲ ಮತ್ತು ವೆಬ್‌ಸೈಟ್ ಮುಚ್ಚಿಹೋಗುತ್ತದೆ."
+    ],
+    "warning_signs_en": [
+      "Discounts that seem too good to be true (e.g., 85% to 90% off luxury goods).",
+      "The website was created recently, has no physical address, and has no working contact number.",
+      "Absence of Cash on Delivery (COD) option and no customer reviews outside their own website."
+    ],
+    "warning_signs_kn": [
+      "ನಂಬಲು ಅಸಾಧ್ಯವಾದ ಭಾರಿ ರಿಯಾಯಿತಿಗಳು (ಉದಾ: ₹50,000 ಲ್ಯಾಪ್‌ಟಾಪ್ ₹9,000 ಕ್ಕೆ).",
+      "ವೆಬ್‌ಸೈಟ್‌ನಲ್ಲಿ ಯಾವುದೇ ಅಧಿಕೃತ ವಿಳಾಸ ಅಥವಾ ಕೆಲಸ ಮಾಡುವ ಫೋನ್ ಸಂಖ್ಯೆ ಇಲ್ಲದಿರುವುದು.",
+      "ಕ್ಯಾಶ್ ಆನ್ ಡೆಲಿವರಿ ಆಯ್ಕೆ ಇಲ್ಲದಿರುವುದು."
+    ],
+    "fictional_example_en": "Manjunath saw an Instagram sponsored reel showing an electric mountain cycle for ₹3,499 (regular price ₹28,000). The website looked polished with customer photos and a countdown timer 'Sale ends in 14 minutes'. Manjunath paid ₹3,499 immediately via UPI. Two weeks passed with no shipment tracking. When he checked the site again, the domain was expired.",
+    "fictional_example_kn": "ಮಂಜುನಾಥ್ ಇನ್‌ಸ್ಟಾಗ್ರಾಮ್‌ನಲ್ಲಿ ₹28,000 ಮೌಲ್ಯದ ಎಲೆಕ್ಟ್ರಿಕ್ ಸೈಕಲ್ ಕೇವಲ ₹3,499 ಕ್ಕೆ ಸಿಗುತ್ತದೆ ಎಂದು ಜಾಹೀರಾತು ನೋಡಿ ಹಣ ಪಾವತಿಸಿದರು. ಆದರೆ ಯಾವುದೇ ಸೈಕಲ್ ಬರಲಿಲ್ಲ ಮತ್ತು ಆ ವೆಬ್‌ಸೈಟ್ ಬಂದ್ ಆಯಿತು.",
+    "prevention_methods_en": [
+      "If a deal looks too good to be true, it is almost certainly a scam.",
+      "Stick to well-established e-commerce platforms (Amazon, Flipkart, official brand stores).",
+      "Check domain age and reputation on WHOIS lookup tools before entering credit card information."
+    ],
+    "prevention_methods_kn": [
+      "ಬೆಲೆ ಅತಿ ಕಡಿಮೆಯಿದ್ದರೆ ಅದು ಖಂಡಿತ ವಂಚನೆ ಎಂದು ತಿಳಿಯಿರಿ.",
+      "ವಿಶ್ವಾಸಾರ್ಹ ಮತ್ತು ಪರಿಚಿತ ಇ-ಕಾಮರ್ಸ್ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ಗಳ ಮೂಲಕ ಮಾತ್ರ ಶಾಪಿಂಗ್ ಮಾಡಿ.",
+      "ಅಪರಿಚಿತ ಸೈಟ್‌ಗಳಲ್ಲಿ ಕ್ರೆಡಿಟ್ ಅಥವಾ ಡೆಬಿಟ್ ಕಾರ್ಡ್ ವಿವರಗಳನ್ನು ನೀಡಬೇಡಿ."
+    ]
+  },
+  {
+    "id": "investment_scams",
+    "icon": "📈",
+    "title_en": "Investment & Crypto Ponzi Scams",
+    "title_kn": "ಹೂಡಿಕೆ ಮತ್ತು ಕ್ರಿಪ್ಟೋ ಪೊಂಜಿ ವಂಚನೆ",
+    "category": "scam_awareness",
+    "summary_en": "Guaranteed 200% returns in 30 days, fake algorithmic forex bots, and sham cryptocurrency trading platforms.",
+    "summary_kn": "30 ದಿನಗಳಲ್ಲಿ ಹಣ ಡಬಲ್, ಕ್ರಿಪ್ಟೋ ಟ್ರೇಡಿಂಗ್‌ನಲ್ಲಿ ನಿಶ್ಚಿತ ಭಾರಿ ಲಾಭ ಎಂದು ನಂಬಿಸಿ ಕೋಟ್ಯಂತರ ಹಣ ದೋಚುವ ದಂಧೆ.",
+    "what_is_it_en": "Fraudsters create deceptive online investment portals showing simulated astronomical returns. Victims are lured through WhatsApp and Telegram investment groups where bot accounts post fake screenshots of daily profits. Once real money is deposited, it cannot be withdrawn.",
+    "what_is_it_kn": "ಷೇರು ಮಾರುಕಟ್ಟೆ ಅಥವಾ ಕ್ರಿಪ್ಟೋಕರೆನ್ಸಿಯಲ್ಲಿ ದಿನಕ್ಕೆ 10-20% ನಿಶ್ಚಿತ ಲಾಭ ನೀಡುತ್ತೇವೆ ಎಂದು ಸುಳ್ಳು ಟ್ರೇಡಿಂಗ್ ಆ್ಯಪ್‌ಗಳನ್ನು ತಯಾರಿಸುತ್ತಾರೆ. ಆರಂಭದಲ್ಲಿ ಆ್ಯಪ್‌ನಲ್ಲಿ ಲಾಭ ಹೆಚ್ಚುತ್ತಿರುವಂತೆ ತೋರಿಸಿ, ಅಂತಿಮವಾಗಿ ಹಣ ಡ್ರಾ ಮಾಡಲು ಬಿಡದೆ ಮುಳುಗಿಸುತ್ತಾರೆ.",
+    "how_it_works_en": [
+      "1. Victim is invited to a WhatsApp group: 'Institutional VIP Stock Tips'.",
+      "2. Accomplices post fabricated screenshots of earning ₹50,000 per day.",
+      "3. The admin asks the victim to register on an unverified trading app downloaded via a web link (APK).",
+      "4. Victim invests ₹20,000. The fake dashboard displays a balance of ₹45,000 within a week.",
+      "5. Overjoyed, the victim invests ₹5,00,000. When trying to withdraw, the app demands 30% 'tax deposit'. The app then freezes permanently."
+    ],
+    "how_it_works_kn": [
+      "1. ವಾಟ್ಸಾಪ್ ಗ್ರೂಪ್‌ಗೆ ಸೇರಿಸಿ 'ಪ್ರತಿದಿನ ಲಕ್ಷಾಂತರ ಲಾಭ' ಎಂದು ಸುಳ್ಳು ಸ್ಕ್ರೀನ್‌ಶಾಟ್ ತೋರಿಸುತ್ತಾರೆ.",
+      "2. ನಕಲಿ ಟ್ರೇಡಿಂಗ್ ಆ್ಯಪ್ (APK) ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಹೇಳುತ್ತಾರೆ.",
+      "3. ನೀವು ₹20,000 ಹಾಕಿದಾಗ ಆ್ಯಪ್‌ನಲ್ಲಿ ₹40,000 ಆದಂತೆ ಗ್ರಾಫಿಕ್ಸ್ ತೋರಿಸುತ್ತಾರೆ.",
+      "4. ನೀವು ದೊಡ್ಡ ಮೊತ್ತ ಹಾಕಿದ ನಂತರ ಹಣವನ್ನು ವಿತ್‌ಡ್ರಾ ಮಾಡಲು ಬಿಡದೆ ಸಂಪೂರ್ಣ ಹಣ ಲಪಟಾಯಿಸುತ್ತಾರೆ."
+    ],
+    "warning_signs_en": [
+      "Promises of guaranteed high returns with 'zero risk'.",
+      "Pressure to download apps outside the official Google Play Store or Apple App Store.",
+      "Investment advice shared via random WhatsApp or Telegram groups.",
+      "Demands to pay 'fees' or 'income tax' directly to individual bank accounts before releasing profits."
+    ],
+    "warning_signs_kn": [
+      "ಯಾವುದೇ ರಿಸ್ಕ್ ಇಲ್ಲದೆ ದುಪ್ಪಟ್ಟು ಲಾಭದ ಗ್ಯಾರಂಟಿ ನೀಡುವುದು.",
+      "ಪ್ಲೇಸ್ಟೋರ್‌ನಲ್ಲಿ ಇಲ್ಲದ ಹೊರಗಿನ APK ಫೈಲ್ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲು ಹೇಳುವುದು.",
+      "ಟೆಲಿಗ್ರಾಂ ಅಥವಾ ವಾಟ್ಸಾಪ್‌ನಲ್ಲಿ ಅನಾಮಧೇಯ ವ್ಯಕ್ತಿಗಳ ಹೂಡಿಕೆ ಸಲಹೆಗಳು."
+    ],
+    "fictional_example_en": "Dr. Suresh was invited to a crypto trading WhatsApp group named 'Goldman AI Wealth'. Seeing others celebrate huge earnings, Suresh started with ₹50,000. The dashboard showed his balance swell to ₹2,80,000. Convinced, Suresh poured in his retirement savings of ₹15,00,000. When he clicked withdraw, customer support demanded ₹3,00,000 in 'security bond'. When he refused, he was booted from the group and the website went offline.",
+    "fictional_example_kn": "ಡಾ. ಸುರೇಶ್ ಕ್ರಿಪ್ಟೋ ಟ್ರೇಡಿಂಗ್ ಆ್ಯಪ್‌ನಲ್ಲಿ ತಮ್ಮ ನಿವೃತ್ತಿಯ ₹15 ಲಕ್ಷ ಹಣ ಹೂಡಿಕೆ ಮಾಡಿದರು. ಆ್ಯಪ್‌ನಲ್ಲಿ ₹30 ಲಕ್ಷ ಆದಂತೆ ಕಂಡಿತು, ಆದರೆ ಹಣ ವಾಪಸ್ ಪಡೆಯಲು ಹೋದಾಗ ಇನ್ನಷ್ಟು ತೆರಿಗೆ ಕಟ್ಟಿ ಎಂದು ಹೇಳಿ ಎಲ್ಲ ಹಣವನ್ನು ಕಸಿದುಕೊಂಡರು.",
+    "prevention_methods_en": [
+      "There is no such thing as guaranteed high return with zero risk in financial markets.",
+      "Only invest through SEBI-registered brokers and mutual fund houses.",
+      "Never install unverified trading APKs downloaded from chat links."
+    ],
+    "prevention_methods_kn": [
+      "ಹಣಕಾಸು ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಶೂನ್ಯ ರಿಸ್ಕ್‌ನೊಂದಿಗೆ ಹೆಚ್ಚಿನ ಲಾಭ ನೀಡುವ ಯಾವುದೇ ಯೋಜನೆ ಇಲ್ಲ.",
+      "ಕೇವಲ SEBI ನೋಂದಾಯಿತ ಅಧಿಕೃತ ಬ್ರೋಕರ್ ಸಂಸ್ಥೆಗಳ ಮೂಲಕ ಮಾತ್ರ ಹೂಡಿಕೆ ಮಾಡಿ.",
+      "ಲಿಂಕ್ ಮೂಲಕ ಬರುವ ಆ್ಯಪ್‌ಗಳನ್ನು ಮೊಬೈಲ್‌ನಲ್ಲಿ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಬೇಡಿ."
+    ]
+  },
+  {
+    "id": "identity_theft",
+    "icon": "🪪",
+    "title_en": "Identity Theft & SIM Swap Scams",
+    "title_kn": "ಗುರುತು ಕಳ್ಳತನ ಮತ್ತು ಸಿಮ್ ಸ್ವ್ಯಾಪ್ (SIM Swap) ವಂಚನೆ",
+    "category": "scam_awareness",
+    "summary_en": "Criminals clone your SIM card or misuse your Aadhaar and PAN documents to open fraudulent bank accounts or obtain instant loans in your name.",
+    "summary_kn": "ನಿಮ್ಮ ಆಧಾರ್, ಪಾನ್ ಕಾರ್ಡ್ ಅಥವಾ ಸಿಮ್ ಕಾರ್ಡ್ ದುರ್ಬಳಕೆ ಮಾಡಿಕೊಂಡು ನಿಮ್ಮ ಹೆಸರಿನಲ್ಲಿ ಸಾಲ ಪಡೆಯುವ ಅಥವಾ ಬ್ಯಾಂಕ್ ಖಾತೆ ತೆರೆಯುವ ವಂಚನೆ.",
+    "what_is_it_en": "Identity theft occurs when malicious actors obtain your confidential identification proofs (Aadhaar, PAN, Voter ID) and use them to impersonate you. In a SIM Swap attack, scammers convince telecom operators to transfer your phone number to a new SIM card in their possession, hijacking all incoming SMS OTPs and phone calls.",
+    "what_is_it_kn": "ವಂಚಕರು ನಿಮ್ಮ ಆಧಾರ್ ಮತ್ತು ಪ್ಯಾನ್ ಕಾರ್ಡ್ ಜೆರಾಕ್ಸ್ ಪಡೆದು ನಕಲಿ ಲೋನ್ ಆ್ಯಪ್‌ಗಳಲ್ಲಿ ನಿಮ್ಮ ಹೆಸರಿನಲ್ಲಿ ಸಾಲ ಪಡೆಯುತ್ತಾರೆ. ಸಿಮ್ ಸ್ವ್ಯಾಪ್ ಮೂಲಕ ನಿಮ್ಮ ಮೊಬೈಲ್ ನೆಟ್‌ವರ್ಕ್ ಬಂದ್ ಮಾಡಿ, ಅದೇ ಸಂಖ್ಯೆಯ ಹೊಸ ಸಿಮ್ ಪಡೆದು ನಿಮ್ಮ ಬ್ಯಾಂಕ್ OTP ಗಳನ್ನು ತಮ್ಮ ಮೊಬೈಲ್‌ಗೆ ಬರುವಂತೆ ಮಾಡಿಕೊಳ್ಳುತ್ತಾರೆ.",
+    "how_it_works_en": [
+      "1. Scammers obtain a copy of your Aadhaar and phone number from compromised hotel or gym records.",
+      "2. They visit a mobile store with forged documents claiming your phone was stolen and request a SIM replacement.",
+      "3. Your mobile phone suddenly loses network signal ('No Service').",
+      "4. The scammer's new SIM activates and intercepts all your banking and WhatsApp OTPs.",
+      "5. They trigger password resets on your netbanking accounts and drain the balance."
+    ],
+    "how_it_works_kn": [
+      "1. ನಿಮ್ಮ ಗುರುತಿನ ಚೀಟಿ ಪಡೆದು, ಸಿಮ್ ಕಳೆದುಹೋಗಿದೆ ಎಂದು ಮೊಬೈಲ್ ಶೋರೂಮ್‌ನಿಂದ ಹೊಸ ಸಿಮ್ ಪಡೆಯುತ್ತಾರೆ.",
+      "2. ನಿಮ್ಮ ಮೊಬೈಲ್‌ನಲ್ಲಿ ನೆಟ್‌ವರ್ಕ್ ಸಂಪೂರ್ಣವಾಗಿ ಹೊರಟುಹೋಗುತ್ತದೆ (No Service).",
+      "3. ಹೊಸ ಸಿಮ್‌ನಲ್ಲಿ ನಿಮ್ಮ ಬ್ಯಾಂಕ್ OTP ಗಳನ್ನು ಪಡೆದು ಖಾತೆಯಲ್ಲಿದ್ದ ಹಣ ವರ್ಗಾಯಿಸುತ್ತಾರೆ."
+    ],
+    "warning_signs_en": [
+      "Your mobile phone abruptly loses all cellular signal for an extended duration despite being in a good coverage area.",
+      "You receive notifications about password resets or logins you did not initiate.",
+      "Receiving loan collection notices for credit lines you never applied for."
+    ],
+    "warning_signs_kn": [
+      "ಉತ್ತಮ ನೆಟ್‌ವರ್ಕ್ ಇರುವ ಜಾಗದಲ್ಲೂ ನಿಮ್ಮ ಮೊಬೈಲ್‌ನಲ್ಲಿ ದಿಢೀರನೆ ಸಿಗ್ನಲ್ ಕಟ್ ಆಗುವುದು.",
+      "ನೀವು ಮಾಡದ ಲಾಗಿನ್ ಅಥವಾ ಪಾಸ್‌ವರ್ಡ್ ಬದಲಾವಣೆಯ ನೋಟಿಫಿಕೇಶನ್‌ಗಳು ಬರುವುದು.",
+      "ನೀವು ಪಡೆಯದ ಸಾಲದ ಬಗ್ಗೆ ಬ್ಯಾಂಕ್ ಅಥವಾ ರಿಕವರಿ ಏಜೆಂಟ್‌ಗಳಿಂದ ನೋಟಿಸ್ ಬರುವುದು."
+    ],
+    "fictional_example_en": "Late Friday evening, Chetan's phone showed 'No Service'. Assuming it was a minor network glitch, he went to sleep. The next morning, when Wi-Fi connected, he had multiple emails confirming that his netbanking password was changed at 2:00 AM and ₹4,00,000 had been transferred via IMPS. Scammers had executed a SIM swap using a duplicate Aadhaar card.",
+    "fictional_example_kn": "ಚೇತನ್ ಮೊಬೈಲ್‌ನಲ್ಲಿ ಶುಕ್ರವಾರ ರಾತ್ರಿ ಸಿಗ್ನಲ್ ಹೊರಟುಹೋಯಿತು. ನೆಟ್‌ವರ್ಕ್ ಸಮಸ್ಯೆ ಇರಬಹುದು ಎಂದು ಮಲಗಿದರು. ಬೆಳಗ್ಗೆ ಎದ್ದು ನೋಡಿದಾಗ ಅವರ ನೆಟ್‌ಬ್ಯಾಂಕಿಂಗ್ ಪಾಸ್‌ವರ್ಡ್ ಬದಲಾಗಿ ₹4,00,000 ಹಣ ವರ್ಗಾವಣೆಯಾಗಿತ್ತು. ನಕಲಿ ಆಧಾರ್ ಬಳಸಿ ಸಿಮ್ ಸ್ವ್ಯಾಪ್ ಮಾಡಲಾಗಿತ್ತು.",
+    "prevention_methods_en": [
+      "If your phone suddenly shows 'No Service' for more than 15-30 minutes, immediately call your telecom operator from another phone to check if a SIM replacement was requested.",
+      "Use Masked Aadhaar (where only the last 4 digits are visible) whenever submitting identity proofs.",
+      "Lock your Aadhaar biometrics using the official mAadhaar application."
+    ],
+    "prevention_methods_kn": [
+      "ಮೊಬೈಲ್‌ನಲ್ಲಿ ಸಿಗ್ನಲ್ ದಿಢೀರ್ ಹೋದರೆ ತಕ್ಷಣ ಇತರರ ಫೋನ್‌ನಿಂದ ಟೆಲಿಕಾಂ ಸಂಸ್ಥೆಗೆ ಕರೆ ಮಾಡಿ ಪರಿಶೀಲಿಸಿ.",
+      "ಯಾವುದೇ ಕಡೆ ಗುರುತಿನ ಪುರಾವೆ ನೀಡುವಾಗ ಮಾಸ್ಕ್ಡ್ ಆಧಾರ್ (Masked Aadhaar) ಬಳಸಿ.",
+      "mAadhaar ಆ್ಯಪ್ ಬಳಸಿ ನಿಮ್ಮ ಆಧಾರ್ ಬಯೋಮೆಟ್ರಿಕ್ ಲಾಕ್ ಮಾಡಿ ಇಟ್ಟುಕೊಳ್ಳಿ."
+    ]
+  },
+  {
+    "id": "remote_access_scams",
+    "icon": "🖥️",
+    "title_en": "Remote Access Application Scams",
+    "title_kn": "ರಿಮೋಟ್ ಆಕ್ಸೆಸ್ ಆ್ಯಪ್ ವಂಚನೆ (AnyDesk / TeamViewer)",
+    "category": "scam_awareness",
+    "summary_en": "Callers trick you into installing screen-sharing applications like AnyDesk, TeamViewer, or QuickSupport to view your banking credentials live.",
+    "summary_kn": "AnyDesk ಅಥವಾ TeamViewer ನಂತಹ ಆ್ಯಪ್ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿಸಿ ನಿಮ್ಮ ಮೊಬೈಲ್ ಪರದೆಯನ್ನು ನೇರವಾಗಿ ನೋಡಿ ಹಣ ದೋಚುವ ಅಪಾಯಕಾರಿ ವಿಧಾನ.",
+    "what_is_it_en": "Remote screen-sharing applications are legitimate tools used by IT professionals for remote troubleshooting. Cyber criminals exploit these tools by posing as bank or utility executives and convincing non-technical users to install them and share a 9-digit session code, granting full control over the victim's smartphone.",
+    "what_is_it_kn": "AnyDesk, TeamViewer ಅಥವಾ QuickSupport ಆ್ಯಪ್‌ಗಳನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿಸಿದರೆ ನಿಮ್ಮ ಮೊಬೈಲ್‌ನಲ್ಲಿ ನೀವು ಮಾಡುವ ಪ್ರತಿಯೊಂದು ಕೆಲಸವೂ ವಂಚಕರಿಗೆ ಅವರ ಕಂಪ್ಯೂಟರ್‌ನಲ್ಲಿ ಕಾಣಿಸುತ್ತದೆ. ನೀವು ಬ್ಯಾಂಕ್ ಆ್ಯಪ್ ತೆರೆದು ಪಾಸ್‌ವರ್ಡ್ ಅಥವಾ ಪಿನ್ ಹಾಕಿದಾಗ ಅದನ್ನು ನೋಡಿ ಹಣ ಕದಿಯುತ್ತಾರೆ.",
+    "how_it_works_en": [
+      "1. Scammer calls claiming to be from your bank or BESCOM electricity board: 'Sir, your mobile banking is blocked. Download our quick verification app from Play Store called AnyDesk.'",
+      "2. The user installs the app from the Play Store and reads out the 9-digit access code.",
+      "3. The scammer asks the user to accept the 'Allow Screen Sharing' prompt.",
+      "4. The scammer says: 'Now open your SBI or Google Pay app and type your PIN so our server can authenticate your connection.'",
+      "5. The scammer watches every keystroke and immediately executes unauthorized transactions."
+    ],
+    "how_it_works_kn": [
+      "1. ವಂಚಕರು ಕರೆ ಮಾಡಿ 'ನಿಮ್ಮ ಮೊಬೈಲ್ ಬ್ಯಾಂಕಿಂಗ್ ಸರಿಪಡಿಸಲು ಪ್ಲೇಸ್ಟೋರ್‌ನಿಂದ AnyDesk ಆ್ಯಪ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ' ಎನ್ನುತ್ತಾರೆ.",
+      "2. ಆ್ಯಪ್ ತೆರೆದಾಗ ಕಾಣುವ 9 ಅಂಕಿಯ ಕೋಡ್ ಅನ್ನು ಕೇಳುತ್ತಾರೆ.",
+      "3. ನಂತರ ಸ್ಕ್ರೀನ್ ಶೇರಿಂಗ್ ಅನುಮತಿ ಪಡೆದು, ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಆ್ಯಪ್ ತೆರೆಯಲು ಹೇಳುತ್ತಾರೆ.",
+      "4. ನೀವು ಪಿನ್ ನಮೂದಿಸುವಾಗ ಅದನ್ನು ನೋಡಿ ತಕ್ಷಣ ಹಣವನ್ನು ಬೇರೆ ಖಾತೆಗೆ ವರ್ಗಾಯಿಸಿಕೊಳ್ಳುತ್ತಾರೆ."
+    ],
+    "warning_signs_en": [
+      "A caller instructing you to search for and download AnyDesk, TeamViewer, QuickSupport, RustDesk, or ScreenShare.",
+      "The caller asking you to dictate a 9-digit or 10-digit code displayed inside an app.",
+      "A pop-up warning on your phone stating 'Someone is viewing your screen'."
+    ],
+    "warning_signs_kn": [
+      "ಫೋನ್ ಕರೆಯಲ್ಲಿ AnyDesk, TeamViewer ಅಥವಾ QuickSupport ಆ್ಯಪ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಹೇಳುವುದು.",
+      "ಆ್ಯಪ್‌ನಲ್ಲಿರುವ 9 ಅಂಕಿಯ ಕೋಡ್ ಅನ್ನು ಹೇಳಲು ಕೇಳುವುದು.",
+      "ನಿಮ್ಮ ಸ್ಕ್ರೀನ್ ಅನ್ನು ಬೇರೆಯವರು ವೀಕ್ಷಿಸುತ್ತಿದ್ದಾರೆ ಎಂಬ ಎಚ್ಚರಿಕೆ ಕಾಣಿಸುವುದು."
+    ],
+    "fictional_example_en": "Mrs. Gowda (62) received a call: 'Madam, your electricity bill for last month failed to update. Install QuickSupport from Google Play, our technician will update it in 1 minute'. Trusting the professional voice, she installed the app and shared the code. The caller told her to make a ₹10 test payment on PhonePe. As she entered her UPI PIN, the scammer captured the screen and PIN, subsequently withdrawing ₹90,000 across multiple UPI transfers.",
+    "fictional_example_kn": "ಶ್ರೀಮತಿ ಗೌಡ ಅವರಿಗೆ ಕರೆ ಮಾಡಿ 'ವಿದ್ಯುತ್ ಬಿಲ್ ಅಪ್‌ಡೇಟ್ ಮಾಡಲು QuickSupport ಆ್ಯಪ್ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ' ಎಂದರು. ಆ್ಯಪ್ ಹಾಕಿದ ನಂತರ ₹10 ಪಾವತಿ ಮಾಡಲು ಹೇಳಿದರು. ಅವರು ಪಿನ್ ನಮೂದಿಸಿದಾಗ ವಂಚಕರು ಅದನ್ನು ನೋಡಿ ₹90,000 ಹಣ ದೋಚಿದರು.",
+    "prevention_methods_en": [
+      "NEVER INSTALL ANY REMOTE DESKTOP OR SCREEN-SHARING APPLICATION ON THE INSTRUCTION OF AN UNKNOWN CALLER.",
+      "If you accidentally install such an app, immediately turn on Airplane Mode or disconnect from the internet and uninstall the app.",
+      "Legitimate banks and government departments NEVER ask customers to install third-party screen sharing software."
+    ],
+    "prevention_methods_kn": [
+      "ಅಪರಿಚಿತರ ಮಾತನ್ನು ಕೇಳಿ ಯಾವುದೇ ರಿಮೋಟ್ ಸ್ಕ್ರೀನ್ ಶೇರಿಂಗ್ ಆ್ಯಪ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಬೇಡಿ.",
+      "ತಪ್ಪಿ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿದ್ದರೆ ತಕ್ಷಣ ಏರೋಪ್ಲೇನ್ ಮೋಡ್ ಆನ್ ಮಾಡಿ ಆ್ಯಪ್ ಅನ್ನು ಅನ್‌ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ.",
+      "ಯಾವುದೇ ಅಧಿಕೃತ ಬ್ಯಾಂಕ್ ಅಥವಾ ಸರ್ಕಾರಿ ಇಲಾಖೆ ಇಂತಹ ಆ್ಯಪ್ ಹಾಕಲು ಹೇಳುವುದಿಲ್ಲ."
+    ]
+  }
+]

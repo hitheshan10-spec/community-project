@@ -1,0 +1,266 @@
+[
+  {
+    "id": "password_safety",
+    "icon": "🔑",
+    "title_en": "Password & Passphrase Hygiene",
+    "title_kn": "ಪಾಸ್‌ವರ್ಡ್ ಮತ್ತು ಪಾಸ್‌ಫ್ರೇಸ್ ಸುರಕ್ಷತೆ",
+    "summary_en": "Create impenetrable passphrases, utilize secure password managers, and eliminate credential reuse across accounts.",
+    "summary_kn": "ಬಲಿಷ್ಠ ಪಾಸ್‌ವರ್ಡ್ ರಚನೆ, ಪಾಸ್‌ವರ್ಡ್ ಮ್ಯಾನೇಜರ್ ಬಳಕೆ ಮತ್ತು ಒಂದೇ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಎಲ್ಲೆಡೆ ಬಳಸುವುದನ್ನು ತಡೆಯುವುದು.",
+    "core_advice_en": "A 14-character passphrase using 3 to 4 random words (e.g. 'Coffee#Blue$Elephant92') is millions of times harder for supercomputers to crack than a simple 'Password@123'. Never reuse passwords between your primary email, banking portals, and social media.",
+    "core_advice_kn": "14 ಕ್ಕಿಂತ ಹೆಚ್ಚು ಅಕ್ಷರಗಳಿರುವ ವಿಶಿಷ್ಟ ಪಾಸ್‌ಫ್ರೇಸ್ (ಉದಾ: 'Kaveri#Mango$Tree84') ಅನ್ನು ಹ್ಯಾಕರ್‌ಗಳು ಭೇದಿಸುವುದು ಅಸಾಧ್ಯ. ನಿಮ್ಮ ಬ್ಯಾಂಕ್, ಜಿಮೇಲ್ ಮತ್ತು ಸೋಷಿಯಲ್ ಮೀಡಿಯಾಗಳಿಗೆ ಒಂದೇ ಪಾಸ್‌ವರ್ಡ್ ಬಳಸಬೇಡಿ.",
+    "dos_en": [
+      "Use unique passphrases of at least 12-16 characters.",
+      "Employ a trusted password manager (Bitwarden, Apple Keychain, Google Password Manager).",
+      "Update passwords immediately if a service reports a breach."
+    ],
+    "dos_kn": [
+      "ಕನಿಷ್ಠ 12 ರಿಂದ 16 ಅಕ್ಷರಗಳ ವಿಶಿಷ್ಟ ಪಾಸ್‌ವರ್ಡ್ ಬಳಸಿ.",
+      "ವಿಶ್ವಾಸಾರ್ಹ ಪಾಸ್‌ವರ್ಡ್ ಮ್ಯಾನೇಜರ್ ಬಳಸಿ.",
+      "ಯಾವುದಾದರೂ ವೆಬ್‌ಸೈಟ್ ಹ್ಯಾಕ್ ಆದ ತಕ್ಷಣ ಪಾಸ್‌ವರ್ಡ್ ಬದಲಾಯಿಸಿ."
+    ],
+    "donts_en": [
+      "Never use your name, birthday, spouse's name, or mobile number in passwords.",
+      "Never write passwords on sticky notes attached to desks or monitors.",
+      "Never share passwords via WhatsApp, SMS, or over telephone calls."
+    ],
+    "donts_kn": [
+      "ನಿಮ್ಮ ಹೆಸರು, ಹುಟ್ಟಿದ ದಿನಾಂಕ ಅಥವಾ ಮೊಬೈಲ್ ಸಂಖ್ಯೆಯನ್ನು ಪಾಸ್‌ವರ್ಡ್ ಆಗಿ ಇಡಬೇಡಿ.",
+      "ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಕಾಗದದ ಮೇಲೆ ಬರೆದು ಇಡಬೇಡಿ.",
+      "ವಾಟ್ಸಾಪ್ ಅಥವಾ ಫೋನ್ ಕರೆಯಲ್ಲಿ ಯಾರೊಂದಿಗೂ ಪಾಸ್‌ವರ್ಡ್ ಹಂಚಿಕೊಳ್ಳಬೇಡಿ."
+    ]
+  },
+  {
+    "id": "two_factor_auth",
+    "icon": "🛡️",
+    "title_en": "Two-Factor Authentication (2FA)",
+    "title_kn": "ದ್ವಿ-ಹಂತದ ದೃಢೀಕರಣ (2FA)",
+    "summary_en": "Add a second cryptographic shield to your accounts using Authenticator apps rather than vulnerable SMS OTPs.",
+    "summary_kn": "ಕೇವಲ ಪಾಸ್‌ವರ್ಡ್ ಮಾತ್ರವಲ್ಲದೆ, ಅಥೆಂಟಿಕೇಟರ್ ಆ್ಯಪ್ ಮೂಲಕ ಎರಡನೇ ಹಂತದ ರಕ್ಷಣಾ ಕವಚವನ್ನು ಅಳವಡಿಸಿಕೊಳ್ಳುವುದು.",
+    "core_advice_en": "Two-Factor Authentication ensures that even if an attacker steals your password, they cannot breach your account without the second factor. Prefer Time-based One-Time Password (TOTP) apps like Google Authenticator or Microsoft Authenticator over SMS.",
+    "core_advice_kn": "ಹ್ಯಾಕರ್ ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್ ಕದ್ದರೂ ಸಹ 2FA ಇದ್ದರೆ ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಪ್ರವೇಶಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. SMS ಬದಲು ಗೂಗಲ್ ಅಥೆಂಟಿಕೇಟರ್ ಆ್ಯಪ್ ಬಳಸುವುದು ಹೆಚ್ಚು ಸುರಕ್ಷಿತ.",
+    "dos_en": [
+      "Enable 2FA on your Google account, WhatsApp, banking apps, and Instagram.",
+      "Use app-based TOTP (Google Authenticator) instead of SMS whenever possible.",
+      "Securely store emergency backup codes in an encrypted or offline place."
+    ],
+    "dos_kn": [
+      "ಗೂಗಲ್, ವಾಟ್ಸಾಪ್ ಮತ್ತು ಇನ್‌ಸ್ಟಾಗ್ರಾಮ್ ಖಾತೆಗಳಿಗೆ ತಕ್ಷಣ 2FA ಆನ್ ಮಾಡಿ.",
+      "ಸಾಧ್ಯವಾದಷ್ಟು SMS ಬದಲು ಅಥೆಂಟಿಕೇಟರ್ ಆ್ಯಪ್ ಬಳಸಿ.",
+      "ತುರ್ತು ಬ್ಯಾಕಪ್ ಕೋಡ್‌ಗಳನ್ನು ಸುರಕ್ಷಿತವಾಗಿ ಬರೆದಿಟ್ಟುಕೊಳ್ಳಿ."
+    ],
+    "donts_en": [
+      "Never ignore unexpected 2FA prompts appearing on your phone.",
+      "Never share your 2FA security codes with anyone.",
+      "Do not rely solely on phone SMS if hardware keys or app authenticators are available."
+    ],
+    "donts_kn": [
+      "ನೀವು ಲಾಗಿನ್ ಆಗದಿದ್ದಾಗ ಫೋನ್‌ನಲ್ಲಿ ಬರುವ 2FA ಪ್ರಾಂಪ್ಟ್ ಅನ್ನು ಎಂದಿಗೂ ಅನುಮತಿಸಬೇಡಿ.",
+      "2FA ಸೆಕ್ಯುರಿಟಿ ಕೋಡ್‌ಗಳನ್ನು ಯಾರೊಂದಿಗೂ ಹಂಚಿಕೊಳ್ಳಬೇಡಿ."
+    ]
+  },
+  {
+    "id": "upi_safety",
+    "icon": "💸",
+    "title_en": "UPI & Digital Payment Safety",
+    "title_kn": "ಯುಪಿಐ ಮತ್ತು ಡಿಜಿಟಲ್ ಪಾವತಿ ಸುರಕ್ಷತೆ",
+    "summary_en": "Master the absolute core rules of UPI: PIN is only for sending money, never for receiving.",
+    "summary_kn": "ಯುಪಿಐ ನಿಯಮಗಳ ಸಂಪೂರ್ಣ ಅರಿವು: ಹಣ ಕಳುಹಿಸಲು ಮಾತ್ರ ಪಿನ್, ಹಣ ಸ್ವೀಕರಿಸಲು ಅಲ್ಲ.",
+    "core_advice_en": "UPI transactions are instantaneous and irrevocable. Treat entering your UPI PIN exactly like handing over hard cash from your wallet. If you receive an alert requesting your PIN to 'accept cashback' or 'receive a refund', it is a guaranteed fraud.",
+    "core_advice_kn": "ಯುಪಿಐ ಮೂಲಕ ಹಣ ವರ್ಗಾವಣೆ ತಕ್ಷಣವೇ ಆಗುತ್ತದೆ. ಹಣ ಪಡೆಯಲು ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಂಖ್ಯೆ ಅಥವಾ ಯುಪಿಐ ಐಡಿ ನೀಡಿದರೆ ಸಾಕು, ಯಾವುದೇ ಕಾರಣಕ್ಕೂ ಪಿನ್ ಹಾಕುವ ಅಗತ್ಯವಿಲ್ಲ.",
+    "dos_en": [
+      "Verify the recipient's verified registered name on the UPI screen before confirming transfer.",
+      "Set daily transaction limits in your bank app to minimize risk.",
+      "Report fraud immediately to 1930 and file a chargeback within your UPI app."
+    ],
+    "dos_kn": [
+      "ಹಣ ಕಳುಹಿಸುವ ಮುನ್ನ ಪರದೆಯ ಮೇಲೆ ಕಾಣುವ ಸ್ವೀಕೃತಿದಾರರ ಹೆಸರನ್ನು ಪರಿಶೀಲಿಸಿ.",
+      "ಬ್ಯಾಂಕ್ ಆ್ಯಪ್‌ನಲ್ಲಿ ದಿನದ ಯುಪಿಐ ಮಿತಿಯನ್ನು ಕಡಿಮೆ ಮಾಡಿಕೊಳ್ಳಿ.",
+      "ವಂಚನೆಯಾದರೆ ತಕ್ಷಣ 1930 ಗೆ ಕರೆ ಮಾಡಿ."
+    ],
+    "donts_en": [
+      "NEVER enter your UPI PIN to receive money, lottery rewards, or refunds.",
+      "Never click on unsolicited 'Collect Requests' or 'Approve' links sent to your payment app.",
+      "Never scan an unknown QR code to receive money from an online buyer."
+    ],
+    "donts_kn": [
+      "ಹಣ ಪಡೆಯಲು, ಲಾಟರಿ ಹಣ ಪಡೆಯಲು ಎಂದಿಗೂ ಯುಪಿಐ ಪಿನ್ ಹಾಕಬೇಡಿ.",
+      "ಅಪರಿಚಿತರು ಕಳುಹಿಸಿದ 'Collect Request' ಅಥವಾ 'Pay' ರಿಕ್ವೆಸ್ಟ್ ಒಪ್ಪಿಕೊಳ್ಳಬೇಡಿ.",
+      "ಹಣ ಪಡೆಯಲು ಅಪರಿಚಿತರ ಕ್ಯೂಆರ್ ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡಬೇಡಿ."
+    ]
+  },
+  {
+    "id": "banking_safety",
+    "icon": "🏦",
+    "title_en": "NetBanking & Card Security",
+    "title_kn": "ನೆಟ್‌ಬ್ಯಾಂಕಿಂಗ್ ಮತ್ತು ಕಾರ್ಡ್ ಸುರಕ್ಷತೆ",
+    "summary_en": "Safeguard debit/credit card CVVs, set online transaction limits, and practice secure session logout hygiene.",
+    "summary_kn": "ಡೆಬಿಟ್/ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ CVV ರಕ್ಷಣೆ, ಆನ್‌ಲೈನ್ ಟ್ರಾನ್ಸಾಕ್ಷನ್ ಮಿತಿ ಮತ್ತು ಸುರಕ್ಷಿತ ಲಾಗ್‌ಔಟ್ ನಿಯಮಗಳು.",
+    "core_advice_en": "Disable international transactions and ATM withdrawals on debit cards if not actively used. Never save your debit/credit card numbers on random merchant websites.",
+    "core_advice_kn": "ಬ್ಯಾಂಕ್ ಆ್ಯಪ್‌ನಲ್ಲಿ ಇಂಟರ್ನ್ಯಾಷನಲ್ ಟ್ರಾನ್ಸಾಕ್ಷನ್ ಆಫ್ ಮಾಡಿ. ಅಗತ್ಯವಿಲ್ಲದಿದ್ದಾಗ ಆನ್‌ಲೈನ್ ಕಾರ್ಡ್ ಪಾವತಿ ಮಿತಿಯನ್ನು ಶೂನ್ಯಕ್ಕೆ ನಿಗದಿಪಡಿಸಿ.",
+    "dos_en": [
+      "Turn on SMS and email alerts for every financial transaction.",
+      "Always click 'Log Out' on netbanking portals instead of merely closing the browser tab.",
+      "Cover the 3-digit CVV number on the back of your physical card with a sticker after memorizing it."
+    ],
+    "dos_kn": [
+      "ಪ್ರತಿಯೊಂದು ಹಣಕಾಸು ವಹಿವಾಟಿಗೆ SMS ಮತ್ತು ಇಮೇಲ್ ಅಲರ್ಟ್ ಆನ್ ಮಾಡಿ.",
+      "ನೆಟ್‌ಬ್ಯಾಂಕಿಂಗ್ ಮುಗಿದ ನಂತರ ಯಾವಾಗಲೂ 'Log Out' ಕ್ಲಿಕ್ ಮಾಡಿ.",
+      "ನಿಮ್ಮ ಎಟಿಎಂ ಕಾರ್ಡ್ ಹಿಂಭಾಗದಲ್ಲಿರುವ 3 ಅಂಕಿಯ CVV ಸಂಖ್ಯೆಯನ್ನು ನೆನಪಿಟ್ಟುಕೊಂಡು ಅದರ ಮೇಲೆ ಸ್ಟಿಕ್ಕರ್ ಅಂಟಿಸಿ."
+    ],
+    "donts_en": [
+      "Never perform netbanking on shared computers (cyber cafes, hotel lobbies).",
+      "Never give your physical debit card and PIN to a petrol pump or restaurant attendant to swipe out of your sight.",
+      "Never ignore bank transaction SMS alerts."
+    ],
+    "donts_kn": [
+      "ಸೈಬರ್ ಕೆಫೆ ಅಥವಾ ಸಾರ್ವಜನಿಕ ಕಂಪ್ಯೂಟರ್‌ಗಳಲ್ಲಿ ನೆಟ್‌ಬ್ಯಾಂಕಿಂಗ್ ಲಾಗಿನ್ ಮಾಡಬೇಡಿ.",
+      "ಪೆಟ್ರೋಲ್ ಬಂಕ್ ಅಥವಾ ಹೋಟೆಲ್‌ನಲ್ಲಿ ನಿಮ್ಮ ಕಣ್ಣಿಗೆ ಕಾಣದಂತೆ ಕಾರ್ಡ್ ನೀಡಬೇಡಿ."
+    ]
+  },
+  {
+    "id": "social_privacy",
+    "icon": "🔒",
+    "title_en": "Social Media Privacy & Oversharing",
+    "title_kn": "ಸಾಮಾಜಿಕ ಜಾಲತಾಣಗಳ ಗೌಪ್ಯತೆ ಮತ್ತು ರಕ್ಷಣೆ",
+    "summary_en": "Lock down public profile visibility, remove location geotagging, and avoid oversharing identity documents or travel plans.",
+    "summary_kn": "ಪ್ರೊಫೈಲ್ ಲಾಕ್ ಮಾಡುವುದು, ಲೊಕೇಶನ್ ಟ್ಯಾಗಿಂಗ್ ಆಫ್ ಮಾಡುವುದು ಮತ್ತು ವೈಯಕ್ತಿಕ ವಿವರಗಳನ್ನು ಸಾರ್ವಜನಿಕವಾಗಿ ಹಂಚಿಕೊಳ್ಳದಿರುವುದು.",
+    "core_advice_en": "Posting boarding passes, flight tickets, or vacation check-ins broadcasts to criminals that your home is empty. Barcodes on boarding passes contain your full name, passport/ticket number, and frequent flyer login details.",
+    "core_advice_kn": "ವಿಮಾನದ ಬೋರ್ಡಿಂಗ್ ಪಾಸ್ ಅಥವಾ ಪ್ರವಾಸದ ಲೈವ್ ಲೊಕೇಶನ್ ಪೋಸ್ಟ್ ಮಾಡುವುದು ಮನೆ ಖಾಲಿ ಇದೆ ಎಂದು ಕಳ್ಳರಿಗೆ ತಿಳಿಸಿದಂತೆ. ಬೋರ್ಡಿಂಗ್ ಪಾಸ್ ಬಾರ್‌ಕೋಡ್‌ನಲ್ಲಿ ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ವಿವರಗಳಿರುತ್ತವೆ.",
+    "dos_en": [
+      "Set your Instagram and Facebook profiles to 'Private'.",
+      "Review your friend and follower lists periodically to remove unfamiliar accounts.",
+      "Disable exact location sharing on camera and social media applications."
+    ],
+    "dos_kn": [
+      "ಇನ್‌ಸ್ಟಾಗ್ರಾಮ್ ಮತ್ತು ಫೇಸ್‌ಬುಕ್ ಪ್ರೊಫೈಲ್ ಅನ್ನು ಪ್ರೈವೇಟ್ (ಖಾಸಗಿ) ಆಗಿ ಇರಿಸಿ.",
+      "ಪರಿಚಯವಿಲ್ಲದ ಫಾಲೋವರ್‌ಗಳನ್ನು ಆಗಾಗ್ಗೆ ತೆಗೆದುಹಾಕಿ.",
+      "ಕ್ಯಾಮೆರಾ ಮತ್ತು ಸಾಮಾಜಿಕ ಜಾಲತಾಣಗಳಲ್ಲಿ ಲೊಕೇಶನ್ ಶೇರಿಂಗ್ ಆಫ್ ಮಾಡಿ."
+    ],
+    "donts_en": [
+      "Never post photos of Aadhaar cards, PAN cards, driving licenses, or passports.",
+      "Never accept friend requests from strangers or newly created duplicates of existing friends.",
+      "Never post real-time updates of when your house is locked or vacant."
+    ],
+    "donts_kn": [
+      "ಆಧಾರ್, ಪ್ಯಾನ್ ಅಥವಾ ಪಾಸ್‌ಪೋರ್ಟ್ ಫೋಟೋಗಳನ್ನು ಸೋಷಿಯಲ್ ಮೀಡಿಯಾದಲ್ಲಿ ಹಾಕಬೇಡಿ.",
+      "ಅಪರಿಚಿತರ ಫ್ರೆಂಡ್ ರಿಕ್ವೆಸ್ಟ್ ಒಪ್ಪಿಕೊಳ್ಳಬೇಡಿ."
+    ]
+  },
+  {
+    "id": "public_wifi",
+    "icon": "📶",
+    "title_en": "Public Wi-Fi & Hotspot Safety",
+    "title_kn": "ಸಾರ್ವಜನಿಕ ವೈ-ಫೈ ಮತ್ತು ಹಾಟ್‌ಸ್ಪಾಟ್ ಸುರಕ್ಷತೆ",
+    "summary_en": "Avoid accessing confidential banking or sensitive accounts on unencrypted airport, railway, or cafe networks.",
+    "summary_kn": "ವಿಮಾನ ನಿಲ್ದಾಣ ಮತ್ತು ರೈಲ್ವೆ ನಿಲ್ದಾಣಗಳಲ್ಲಿನ ಉಚಿತ ವೈ-ಫೈ ಬಳಸುವಾಗ ಬ್ಯಾಂಕಿಂಗ್ ಮಾಡುವುದನ್ನು ತಪ್ಪಿಸುವುದು.",
+    "core_advice_en": "Anyone on an unsecured public Wi-Fi network can capture network packets using packet sniffers. If you must use public Wi-Fi, use a reputable Virtual Private Network (VPN) and stick exclusively to HTTPS websites.",
+    "core_advice_kn": "ಸಾರ್ವಜನಿಕ ವೈ-ಫೈ ನೆಟ್‌ವರ್ಕ್‌ನಲ್ಲಿರುವ ಡೇಟಾವನ್ನು ಹ್ಯಾಕರ್‌ಗಳು ಸುಲಭವಾಗಿ ಕದಿಯಬಹುದು. ಸಾರ್ವಜನಿಕ ವೈ-ಫೈ ಬಳಸುವಾಗ ಮೊಬೈಲ್ ಡೇಟಾ ಅಥವಾ VPN ಬಳಸುವುದು ಒಳಿತು.",
+    "dos_en": [
+      "Prefer using your own 4G/5G mobile hotspot for banking transactions.",
+      "Turn off automatic Wi-Fi joining in your smartphone settings.",
+      "Verify the exact network name with the cafe or hotel staff to avoid 'Evil Twin' networks."
+    ],
+    "dos_kn": [
+      "ಬ್ಯಾಂಕ್ ಕೆಲಸಗಳಿಗೆ ನಿಮ್ಮ ಸ್ವಂತ ಮೊಬೈಲ್ ಡೇಟಾ (4G/5G) ಮಾತ್ರ ಬಳಸಿ.",
+      "ಫೋನ್‌ನಲ್ಲಿ 'Auto-Connect Wi-Fi' ಆಫ್ ಮಾಡಿ.",
+      "ಹೋಟೆಲ್ ಸಿಬ್ಬಂದಿಯಿಂದ ಅಧಿಕೃತ ವೈ-ಫೈ ಹೆಸರು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
+    ],
+    "donts_en": [
+      "Never access your bank account or credit card portals on open public Wi-Fi.",
+      "Never install software or system updates prompted while connected to public Wi-Fi.",
+      "Never make online purchases using card details on open networks."
+    ],
+    "donts_kn": [
+      "ಮುಕ್ತ ಸಾರ್ವಜನಿಕ ವೈ-ಫೈನಲ್ಲಿ ನೆಟ್‌ಬ್ಯಾಂಕಿಂಗ್ ಅಥವಾ ಕಾರ್ಡ್ ಪಾವತಿ ಮಾಡಬೇಡಿ.",
+      "ಸಾರ್ವಜನಿಕ ವೈ-ಫೈ ಕನೆಕ್ಟ್ ಆಗಿರುವಾಗ ಸಾಫ್ಟ್‌ವೇರ್ ಅಪ್‌ಡೇಟ್ ಮಾಡಬೇಡಿ."
+    ]
+  },
+  {
+    "id": "smartphone_security",
+    "icon": "📲",
+    "title_en": "Smartphone & App Security",
+    "title_kn": "ಸ್ಮಾರ್ಟ್‌ಫೋನ್ ಮತ್ತು ಆ್ಯಪ್ ಸುರಕ್ಷತೆ",
+    "summary_en": "Audit app permissions (camera, microphone, SMS, contacts), disable unknown app sideloading, and keep the OS patched.",
+    "summary_kn": "ಆ್ಯಪ್ ಅನುಮತಿಗಳ (ಕ್ಯಾಮೆರಾ, ಮೈಕ್ರೋಫೋನ್, SMS) ಪರಿಶೀಲನೆ, ಹೊರಗಿನ APK ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡದಿರುವುದು ಮತ್ತು OS ಅಪ್‌ಡೇಟ್ ಮಾಡುವುದು.",
+    "core_advice_en": "Malicious apps often request excessive permissions (e.g., a simple flashlight or calculator app demanding SMS read and Contacts permission). Regularly review your permission manager and revoke permissions from apps that don't strictly require them.",
+    "core_advice_kn": "ಸಾಮಾನ್ಯ ಕ್ಯಾಲ್ಕುಲೇಟರ್ ಆ್ಯಪ್ ನಿಮ್ಮ SMS ಅಥವಾ ಕಾಂಟ್ಯಾಕ್ಟ್ ಅನುಮತಿ ಕೇಳಿದರೆ ಅನುಮಾನಿಸಿ. ಅನಗತ್ಯ ಆ್ಯಪ್‌ಗಳಿಗೆ ಅನುಮತಿಗಳನ್ನು ಹಿಂಪಡೆಯಿರಿ.",
+    "dos_en": [
+      "Download applications exclusively from Google Play Store or Apple App Store.",
+      "Install official operating system and security patches promptly.",
+      "Enable 'Find My Device' and remote device wipe capabilities."
+    ],
+    "dos_kn": [
+      "ಕೇವಲ ಗೂಗಲ್ ಪ್ಲೇಸ್ಟೋರ್ ಅಥವಾ ಆಪಲ್ ಆ್ಯಪ್ ಸ್ಟೋರ್‌ನಿಂದ ಮಾತ್ರ ಆ್ಯಪ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ.",
+      "ಮೊಬೈಲ್ ಸಾಫ್ಟ್‌ವೇರ್ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ತಕ್ಷಣ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ.",
+      "'Find My Device' ಸೌಲಭ್ಯವನ್ನು ಆನ್ ಮಾಡಿ ಇಟ್ಟುಕೊಳ್ಳಿ."
+    ],
+    "donts_en": [
+      "Never enable 'Install from Unknown Sources' to download cracked APKs from Telegram.",
+      "Never grant SMS permissions to utility or gaming apps.",
+      "Do not leave Bluetooth or AirDrop set to 'Everyone' when in crowded places."
+    ],
+    "donts_kn": [
+      "ಟೆಲಿಗ್ರಾಂ ಅಥವಾ ವಾಟ್ಸಾಪ್‌ನಿಂದ APK ಫೈಲ್‌ಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಬೇಡಿ.",
+      "ಗೇಮ್ ಅಥವಾ ಕ್ಯಾಲ್ಕುಲೇಟರ್ ಆ್ಯಪ್‌ಗಳಿಗೆ SMS ಓದುವ ಅನುಮತಿ ನೀಡಬೇಡಿ."
+    ]
+  },
+  {
+    "id": "safe_browsing",
+    "icon": "🌐",
+    "title_en": "Safe Web Browsing",
+    "title_kn": "ಸುರಕ್ಷಿತ ವೆಬ್ ಬ್ರೌಸಿಂಗ್",
+    "summary_en": "Inspect address bar URLs, identify typosquatting domains, configure secure DNS, and block malicious pop-ups.",
+    "summary_kn": "ವೆಬ್ ವಿಳಾಸ (URL) ಪರಿಶೀಲನೆ, ನಕಲಿ ಡೊಮೇನ್‌ಗಳನ್ನು ಗುರುತಿಸುವುದು ಮತ್ತು ಅಪಾಯಕಾರಿ ಪಾಪ್-ಅಪ್‌ಗಳನ್ನು ತಡೆಯುವುದು.",
+    "core_advice_en": "Scammers purchase domains that look almost identical to real portals (e.g., 'paytmm.com' or 'netbank-sbi.top'). Always inspect the URL carefully before typing your password.",
+    "core_advice_kn": "ವಂಚಕರು ನಿಜವಾದ ವೆಬ್‌ಸೈಟ್‌ಗಳಂತೆಯೇ ಕಾಣುವ ನಕಲಿ ವಿಳಾಸಗಳನ್ನು ಖರೀದಿಸುತ್ತಾರೆ. ಪಾಸ್‌ವರ್ಡ್ ನಮೂದಿಸುವ ಮುನ್ನ ವಿಳಾಸವನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಓದಿ.",
+    "dos_en": [
+      "Bookmark official banking and utility websites to avoid searching on Google each time.",
+      "Use reputable ad-blockers and privacy-respecting browser extensions (uBlock Origin).",
+      "Look for the secure lock and inspect SSL certificate details on banking sites."
+    ],
+    "dos_kn": [
+      "ಬ್ಯಾಂಕ್ ವೆಬ್‌ಸೈಟ್‌ಗಳನ್ನು ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನಲ್ಲಿ ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡಿ ಇಟ್ಟುಕೊಳ್ಳಿ.",
+      "ಅನಗತ್ಯ ಪಾಪ್-ಅಪ್ ಜಾಹೀರಾತುಗಳನ್ನು ಬ್ಲಾಕ್ ಮಾಡಿ.",
+      "ಬ್ಯಾಂಕಿಂಗ್ ಮಾಡುವಾಗ SSL ಸರ್ಟಿಫಿಕೇಟ್ ಪರಿಶೀಲಿಸಿ."
+    ],
+    "donts_en": [
+      "Never click on Google Search Ads for customer care telephone numbers.",
+      "Never proceed past a browser warning that says 'Your connection is not private'.",
+      "Never click on pop-ups claiming 'Your phone has 14 viruses! Click here to clean'."
+    ],
+    "donts_kn": [
+      "ಗೂಗಲ್ ಸರ್ಚ್ ಜಾಹೀರಾತುಗಳಲ್ಲಿ ಕಾಣುವ ಕಸ್ಟಮರ್ ಕೇರ್ ನಂಬರ್‌ಗಳಿಗೆ ಕರೆ ಮಾಡಬೇಡಿ.",
+      "'Your connection is not private' ಎಂಬ ಎಚ್ಚರಿಕೆ ಬಂದರೆ ಮುಂದುವರಿಯಬೇಡಿ.",
+      "'ನಿಮ್ಮ ಮೊಬೈಲ್‌ನಲ್ಲಿ ವೈರಸ್ ಇದೆ' ಎಂಬ ಪಾಪ್-ಅಪ್‌ಗಳನ್ನು ನಂಬಬೇಡಿ."
+    ]
+  },
+  {
+    "id": "personal_data_protection",
+    "icon": "🛡️",
+    "title_en": "Personal Identity & Aadhaar Protection",
+    "title_kn": "ವೈಯಕ್ತಿಕ ಗುರುತು ಮತ್ತು ಆಧಾರ್ ರಕ್ಷಣೆ",
+    "summary_en": "Lock your biometrics on the mAadhaar app, use Masked Aadhaar for hotels, and shred sensitive financial mail.",
+    "summary_kn": "mAadhaar ನಲ್ಲಿ ಬಯೋಮೆಟ್ರಿಕ್ ಲಾಕ್ ಮಾಡುವುದು, ಮಾಸ್ಕ್ಡ್ ಆಧಾರ್ ಬಳಕೆ ಮತ್ತು ಹಳೆಯ ಬ್ಯಾಂಕ್ ದಾಖಲೆಗಳನ್ನು ನಾಶಪಡಿಸುವುದು.",
+    "core_advice_en": "Your 12-digit Aadhaar number and biometrics are linked to government subsidies, bank accounts, and SIM cards. Keep your biometrics locked on the official UIDAI portal and only unlock them for 10 minutes when you physically need to provide a fingerprint.",
+    "core_advice_kn": "ನಿಮ್ಮ ಆಧಾರ್ ಸಂಖ್ಯೆ ಬ್ಯಾಂಕ್ ಮತ್ತು ಸಿಮ್ ಕಾರ್ಡ್‌ಗಳಿಗೆ ಲಿಂಕ್ ಆಗಿರುತ್ತದೆ. mAadhaar ಆ್ಯಪ್‌ನಲ್ಲಿ ಬಯೋಮೆಟ್ರಿಕ್ ಲಾಕ್ ಮಾಡಿ, ಅಗತ್ಯವಿದ್ದಾಗ ಮಾತ್ರ 10 ನಿಮಿಷ ಅನ್‌ಲಾಕ್ ಮಾಡಿಕೊಳ್ಳಿ.",
+    "dos_en": [
+      "Download and provide 'Masked Aadhaar' (showing only the last 4 digits) to hotels and rental agents.",
+      "Lock your biometric authentication via the official mAadhaar application.",
+      "Tear or shred discarded credit card statements and courier address labels before throwing them into trash."
+    ],
+    "dos_kn": [
+      "ಹೋಟೆಲ್ ಅಥವಾ ಬಾಡಿಗೆ ನೀಡುವಾಗ 'ಮಾಸ್ಕ್ಡ್ ಆಧಾರ್' (Masked Aadhaar) ಮಾತ್ರ ನೀಡಿ.",
+      "mAadhaar ಆ್ಯಪ್‌ನಲ್ಲಿ ನಿಮ್ಮ ಬಯೋಮೆಟ್ರಿಕ್ ಲಾಕ್ ಆನ್ ಮಾಡಿ.",
+      "ಹಳೆಯ ಬ್ಯಾಂಕ್ ಸ್ಟೇಟ್‌ಮೆಂಟ್ ಮತ್ತು ಕೊರಿಯರ್ ಕವರ್‌ಗಳನ್ನು ಹರಿದು ಕಸಕ್ಕೆ ಹಾಕಿ."
+    ],
+    "donts_en": [
+      "Never leave photocopies of your Aadhaar or PAN card unattended at public xerox shops.",
+      "Never share Aadhaar OTPs with anyone claiming to perform 'sim verification'.",
+      "Do not save unprotected photos of your identity cards in unencrypted cloud photo albums."
+    ],
+    "donts_kn": [
+      "ಜೆರಾಕ್ಸ್ ಅಂಗಡಿಗಳಲ್ಲಿ ನಿಮ್ಮ ಆಧಾರ್ ಪ್ರತಿಗಳನ್ನು ಬಿಟ್ಟು ಬರಬೇಡಿ.",
+      "ಸಿಮ್ ವೆರಿಫಿಕೇಶನ್ ನೆಪದಲ್ಲಿ ಆಧಾರ್ OTP ಯನ್ನು ಯಾರಿಗೂ ಕೊಡಬೇಡಿ."
+    ]
+  }
+]
