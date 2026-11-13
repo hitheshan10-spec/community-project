@@ -1,8 +1,9 @@
-# Virtual Environments
+﻿# Virtual Environments
 .venv/
 env/
 venv/
 ENV/
+**/.venv/
 
 # Python Cache
 __pycache__/
@@ -12,6 +13,7 @@ __pycache__/
 
 # Streamlit Local Runtime
 .streamlit/secrets.toml
+**/.streamlit/secrets.toml
 
 # OS & Temp
 .DS_Store
@@ -28,7 +30,3 @@ Thumbs.db
 .env
 .env.*
 !.env.example
-**/.streamlit/secrets.toml
-
-# Python environments
-**/.venv/
