@@ -18,3 +18,17 @@ __pycache__/
 Thumbs.db
 *.tmp
 *.log
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+**/.streamlit/secrets.toml
+
+# Python environments
+**/.venv/
